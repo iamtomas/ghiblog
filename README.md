@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-16 14:53:47"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-16 15:22:13"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,17 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [ blog-rabbitmq](https://github.com/iamtomas/note/issues/3) <sup>0 :speech_balloon:</sup> 	 2021-12-16 15:21:42
+
+:label: : [开源](https://github.com/iamtomas/ghiblog/labels/%E5%BC%80%E6%BA%90)
+
+RabbitMQ For Action
+
+[更多>>>](https://github.com/iamtomas/note/issues/3)
+
+---
+
 
 #### [技术栈（保持更新）](https://github.com/iamtomas/note/issues/2) <sup>0 :speech_balloon:</sup> 	 2021-12-16 14:52:47
 
@@ -84,8 +95,9 @@ https://github.com/jwenjian/ghiblog/issues/1
 </details>
 
 <details>
-<summary>开源	<sup>0:newspaper:</sup></summary>
+<summary>开源	<sup>1:newspaper:</sup></summary>
 
+- [ blog-rabbitmq](https://github.com/iamtomas/note/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -100,3 +112,10 @@ https://github.com/jwenjian/ghiblog/issues/1
 
 
 </details>    
+
+# 开源项目
+
+
+| [ blog-rabbitmq](https://github.com/iamtomas/ blog-rabbitmq) | RabbitMQ For Action | ![](https://badgen.net/github/stars/iamtomas/ blog-rabbitmq) ![](https://badgen.net/github/forks/iamtomas/ blog-rabbitmq) ![](https://badgen.net/github/watchers/iamtomas/ blog-rabbitmq) |
+| --- | --- | --- |
+
