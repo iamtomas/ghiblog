@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-16 15:50:11"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-16 15:52:33"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,17 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [123](https://github.com/iamtomas/note/issues/7) <sup>0 :speech_balloon:</sup> 	 2021-12-16 15:52:06
+
+:label: : [bug](https://github.com/iamtomas/ghiblog/labels/bug)
+
+123
+
+[更多>>>](https://github.com/iamtomas/note/issues/7)
+
+---
+
 
 #### [技术栈（保持更新）](https://github.com/iamtomas/note/issues/2) <sup>0 :speech_balloon:</sup> 	 2021-12-16 14:52:47
 
@@ -69,8 +80,9 @@ https://github.com/jwenjian/ghiblog/issues/1
 </details>
 
 <details>
-<summary>bug	<sup>0:newspaper:</sup></summary>
+<summary>bug	<sup>1:newspaper:</sup></summary>
 
+- [123](https://github.com/iamtomas/note/issues/7)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
