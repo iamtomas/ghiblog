@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/12"/>
+    <img src="https://badgen.net/badge/labels/5"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-16 14:13:32"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-16 14:37:43"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -18,16 +18,16 @@
 
 
 ## 置顶 :thumbsup: 
-- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/ghiblog/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-12-16 13:26:34
+#### [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-12-16 13:26:34
 
-:label: : [:+1:置顶](https://github.com/iamtomas/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
+:label: : [good first issue](https://github.com/iamtomas/ghiblog/labels/good%20first%20issue), [:+1:置顶](https://github.com/iamtomas/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 
 https://github.com/jwenjian/ghiblog/issues/1
 
-[更多>>>](https://github.com/iamtomas/ghiblog/issues/1)
+[更多>>>](https://github.com/iamtomas/note/issues/1)
 
 ---
 
@@ -44,7 +44,7 @@ https://github.com/jwenjian/ghiblog/issues/1
 <details>
 <summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
 
-- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -64,57 +64,9 @@ https://github.com/jwenjian/ghiblog/issues/1
 </details>
 
 <details>
-<summary>documentation	<sup>0:newspaper:</sup></summary>
+<summary>good first issue	<sup>1:newspaper:</sup></summary>
 
-
-
-</details>
-
-<details>
-<summary>duplicate	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>enhancement	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>good first issue	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>help wanted	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>invalid	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>question	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>wontfix	<sup>0:newspaper:</sup></summary>
-
+- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
