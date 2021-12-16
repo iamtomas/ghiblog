@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-16 14:05:30"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-16 14:11:34"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -18,10 +18,10 @@
 
 
 ## 置顶 :thumbsup: 
-- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
+- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/ghiblog/issues/1) <sup>1 :speech_balloon:</sup> 	 2021-12-16 13:26:34
+#### [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/ghiblog/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-12-16 13:26:34
 
 :label: : [:+1:置顶](https://github.com/iamtomas/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 
@@ -44,7 +44,7 @@ test
 <details>
 <summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
 
-- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
+- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
