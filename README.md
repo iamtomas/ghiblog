@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-16 14:11:34"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-16 14:13:32"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -25,7 +25,7 @@
 
 :label: : [:+1:置顶](https://github.com/iamtomas/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 
-test
+https://github.com/jwenjian/ghiblog/issues/1
 
 [更多>>>](https://github.com/iamtomas/ghiblog/issues/1)
 
