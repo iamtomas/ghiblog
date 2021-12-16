@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-16 14:53:12"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-16 14:53:47"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -23,7 +23,7 @@
 
 #### [技术栈（保持更新）](https://github.com/iamtomas/note/issues/2) <sup>0 :speech_balloon:</sup> 	 2021-12-16 14:52:47
 
-:label: : 
+:label: : [技术栈](https://github.com/iamtomas/ghiblog/labels/%E6%8A%80%E6%9C%AF%E6%A0%88)
 
 ![前端](https://user-images.githubusercontent.com/83901620/146393913-11f93910-64dd-4bb2-b79b-171f39ea4174.png)
 ![后端](https://user-images.githubusercont
@@ -91,8 +91,9 @@ https://github.com/jwenjian/ghiblog/issues/1
 </details>
 
 <details>
-<summary>技术栈	<sup>0:newspaper:</sup></summary>
+<summary>技术栈	<sup>1:newspaper:</sup></summary>
 
+- [技术栈（保持更新）](https://github.com/iamtomas/note/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
