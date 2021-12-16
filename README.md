@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-16 15:56:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-16 15:57:54"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -21,7 +21,7 @@
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [123](https://github.com/iamtomas/note/issues/7) <sup>0 :speech_balloon:</sup> 	 2021-12-16 15:52:06
+#### [blog](https://github.com/iamtomas/note/issues/7) <sup>0 :speech_balloon:</sup> 	 2021-12-16 15:52:06
 
 :label: : [开源](https://github.com/iamtomas/ghiblog/labels/%E5%BC%80%E6%BA%90)
 
@@ -97,7 +97,7 @@ https://github.com/jwenjian/ghiblog/issues/1
 <details>
 <summary>开源	<sup>1:newspaper:</sup></summary>
 
-- [123](https://github.com/iamtomas/note/issues/7)  <sup>0 :speech_balloon:</sup>  	 
+- [blog](https://github.com/iamtomas/note/issues/7)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -116,6 +116,6 @@ https://github.com/jwenjian/ghiblog/issues/1
 # 开源项目
 
 
-| [123](https://github.com/iamtomas/123) | 123 | ![](https://badgen.net/github/stars/iamtomas/123) ![](https://badgen.net/github/forks/iamtomas/123) ![](https://badgen.net/github/watchers/iamtomas/123) |
+| [blog](https://github.com/iamtomas/blog) | 123 | ![](https://badgen.net/github/stars/iamtomas/blog) ![](https://badgen.net/github/forks/iamtomas/blog) ![](https://badgen.net/github/watchers/iamtomas/blog) |
 | --- | --- | --- |
 
