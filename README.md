@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-16 15:44:23"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-16 15:50:11"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -84,9 +84,8 @@ https://github.com/jwenjian/ghiblog/issues/1
 </details>
 
 <details>
-<summary>开源	<sup>1:newspaper:</sup></summary>
+<summary>开源	<sup>0:newspaper:</sup></summary>
 
-- [blog](https://github.com/iamtomas/note/issues/6)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -101,10 +100,3 @@ https://github.com/jwenjian/ghiblog/issues/1
 
 
 </details>    
-
-# 开源项目
-
-
-| [blog](https://github.com/iamtomas/blog) | check open-source update | ![](https://badgen.net/github/stars/iamtomas/blog) ![](https://badgen.net/github/forks/iamtomas/blog) ![](https://badgen.net/github/watchers/iamtomas/blog) |
-| --- | --- | --- |
-
