@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/6"/>
+    <img src="https://badgen.net/badge/labels/7"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-16 15:57:54"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-17 10:06:23"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,23 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [sql是如何执行的？](https://github.com/iamtomas/note/issues/8) <sup>0 :speech_balloon:</sup> 	 2021-12-17 10:05:54
+
+:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL)
+
+# 服务器处理客户端
+
+处理请求的大致过程：
+
+![image](https://user-images.githubusercontent.com/83901620/146526155-87cade0d-c797-4028-9ff1-1dd0a8a69ab8.png)
+
+## 连接管理
+
+[更多>>>](https://github.com/iamtomas/note/issues/8)
+
+---
+
 
 #### [blog](https://github.com/iamtomas/note/issues/7) <sup>0 :speech_balloon:</sup> 	 2021-12-16 15:52:06
 
@@ -90,6 +107,14 @@ https://github.com/jwenjian/ghiblog/issues/1
 <summary>good first issue	<sup>1:newspaper:</sup></summary>
 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>MySQL	<sup>1:newspaper:</sup></summary>
+
+- [sql是如何执行的？](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
