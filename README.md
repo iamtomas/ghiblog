@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/7"/>
+    <img src="https://badgen.net/badge/labels/8"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-17 10:06:23"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-17 10:25:36"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -23,7 +23,7 @@
 
 #### [sql是如何执行的？](https://github.com/iamtomas/note/issues/8) <sup>0 :speech_balloon:</sup> 	 2021-12-17 10:05:54
 
-:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL)
+:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL), [数据库](https://github.com/iamtomas/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 # 服务器处理客户端
 
@@ -34,17 +34,6 @@
 ## 连接管理
 
 [更多>>>](https://github.com/iamtomas/note/issues/8)
-
----
-
-
-#### [blog](https://github.com/iamtomas/note/issues/7) <sup>0 :speech_balloon:</sup> 	 2021-12-16 15:52:06
-
-:label: : [开源](https://github.com/iamtomas/ghiblog/labels/%E5%BC%80%E6%BA%90)
-
-123
-
-[更多>>>](https://github.com/iamtomas/note/issues/7)
 
 ---
 
@@ -120,9 +109,8 @@ https://github.com/jwenjian/ghiblog/issues/1
 </details>
 
 <details>
-<summary>开源	<sup>1:newspaper:</sup></summary>
+<summary>开源	<sup>0:newspaper:</sup></summary>
 
-- [blog](https://github.com/iamtomas/note/issues/7)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -135,12 +123,13 @@ https://github.com/jwenjian/ghiblog/issues/1
 
 </details>
 
+<details>
+<summary>数据库	<sup>1:newspaper:</sup></summary>
+
+- [sql是如何执行的？](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
 
 </details>    
-
-# 开源项目
-
-
-| [blog](https://github.com/iamtomas/blog) | 123 | ![](https://badgen.net/github/stars/iamtomas/blog) ![](https://badgen.net/github/forks/iamtomas/blog) ![](https://badgen.net/github/watchers/iamtomas/blog) |
-| --- | --- | --- |
-
