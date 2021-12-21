@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/8"/>
+    <img src="https://badgen.net/badge/labels/9"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-20 14:17:40"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-21 15:13:14"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,32 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [两数之和 - 力扣（LeetCode）](https://github.com/iamtomas/note/issues/9) <sup>0 :speech_balloon:</sup> 	 2021-12-21 15:12:45
+
+:label: : [算法](https://github.com/iamtomas/ghiblog/labels/%E7%AE%97%E6%B3%95)
+
+## 题目链接
+https://leetcode-cn.com/problems/two-sum/
+
+## 思路
+
+1. 暴力解法
+
+2. 哈希表
+
+## 代码实现
+
+```ruby
+
+```
+
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/9)
+
+---
+
 
 #### [SQL是如何执行的？](https://github.com/iamtomas/note/issues/8) <sup>0 :speech_balloon:</sup> 	 2021-12-17 10:05:54
 
@@ -155,6 +181,14 @@ https://github.com/jwenjian/ghiblog/issues/1
 <summary>数据库	<sup>1:newspaper:</sup></summary>
 
 - [SQL是如何执行的？](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>算法	<sup>1:newspaper:</sup></summary>
+
+- [两数之和 - 力扣（LeetCode）](https://github.com/iamtomas/note/issues/9)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
