@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/9"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-21 15:13:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-22 12:53:10"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -92,18 +92,6 @@ mysql> show status like 'last_query_cost';
 ---
 
 
-#### [技术栈（保持更新）](https://github.com/iamtomas/note/issues/2) <sup>0 :speech_balloon:</sup> 	 2021-12-16 14:52:47
-
-:label: : [技术栈](https://github.com/iamtomas/ghiblog/labels/%E6%8A%80%E6%9C%AF%E6%A0%88)
-
-![前端](https://user-images.githubusercontent.com/83901620/146393913-11f93910-64dd-4bb2-b79b-171f39ea4174.png)
-![后端](https://user-images.githubusercont
-
-[更多>>>](https://github.com/iamtomas/note/issues/2)
-
----
-
-
 #### [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-12-16 13:26:34
 
 :label: : [good first issue](https://github.com/iamtomas/ghiblog/labels/good%20first%20issue), [:+1:置顶](https://github.com/iamtomas/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
@@ -170,9 +158,8 @@ https://github.com/jwenjian/ghiblog/issues/1
 </details>
 
 <details>
-<summary>技术栈	<sup>1:newspaper:</sup></summary>
+<summary>技术栈	<sup>0:newspaper:</sup></summary>
 
-- [技术栈（保持更新）](https://github.com/iamtomas/note/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
