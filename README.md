@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/9"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-22 12:54:48"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-23 14:58:45"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -37,10 +37,8 @@ https://leetcode-cn.com/problems/two-sum/
 ## 代码实现
 
 ```ruby
-
-```
-
-
+# @param {Integer[]} nums
+# @param {Integer} 
 
 [更多>>>](https://github.com/iamtomas/note/issues/9)
 
