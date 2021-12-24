@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/9"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-23 14:58:45"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-24 15:57:27"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,21 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10) <sup>0 :speech_balloon:</sup> 	 2021-12-24 15:56:55
+
+:label: : 
+
+InnoDB 本身就是个存储引擎，专门负责对数据做存取操作，但在本篇呢，仅讲述在InnoDB下的记录与页的结构
+
+## 记录结构
+
+在InnoDB下支持4种行格式：Compact、Redundant、Dynamic和Compressed，但不管怎么变，在原理上大体都是相同的，下边以Compa
+
+[更多>>>](https://github.com/iamtomas/note/issues/10)
+
+---
+
 
 #### [两数之和 - 力扣（LeetCode）](https://github.com/iamtomas/note/issues/9) <sup>0 :speech_balloon:</sup> 	 2021-12-21 15:12:45
 
@@ -163,8 +178,9 @@ https://github.com/jwenjian/ghiblog/issues/1
 </details>
 
 <details>
-<summary>数据库	<sup>1:newspaper:</sup></summary>
+<summary>数据库	<sup>2:newspaper:</sup></summary>
 
+- [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL中SQL是如何执行的？](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
 
 
