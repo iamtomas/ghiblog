@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/9"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-24 16:48:02"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-24 16:57:29"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -49,9 +49,9 @@ https://leetcode-cn.com/problems/two-sum/
 
 2. 哈希表
 
+```ruby
 ## 代码实现
 
-```ruby
 # @param {Integer[]} nums
 # @param {Integer} 
 
