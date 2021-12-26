@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/9"/>
+    <img src="https://badgen.net/badge/labels/10"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-26 05:04:37"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-26 15:39:24"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,27 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Rails7 demo](https://github.com/iamtomas/note/issues/11) <sup>0 :speech_balloon:</sup> 	 2021-12-26 15:38:56
+
+:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
+
+### 新功能和改进
+
+- 
+- 
+
+### DEMO
+
+### 参考
+
+- https://www.youtube.com/watch?v=mpWFrUwAN88
+- https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a
+
+[更多>>>](https://github.com/iamtomas/note/issues/11)
+
+---
+
 
 #### [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10) <sup>0 :speech_balloon:</sup> 	 2021-12-24 15:56:55
 
@@ -160,6 +181,14 @@ https://github.com/jwenjian/ghiblog/issues/1
 
 - [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL中SQL是如何执行的？](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>Rails	<sup>1:newspaper:</sup></summary>
+
+- [Rails7 demo](https://github.com/iamtomas/note/issues/11)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
