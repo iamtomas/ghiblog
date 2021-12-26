@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/9"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-24 16:57:29"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-26 05:04:37"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -71,6 +71,34 @@ https://leetcode-cn.com/problems/two-sum/
 ![image](https://user-images.githubusercontent.com/83901620/146526155-87cade0d-c797-4028-9ff1-1dd0a8a69ab8.png)
 
 ## 连接管理
+
+MySQL支持下边三种客户端进程和服务器进程的通信方式：
+
+- TCP/IP
+- 命名管道和共享内存
+- Unix域套接字文件
+
+## 解析与优化
+
+- 查询缓存（在一个对大小写敏感的哈希中进行查找）
+
+> 虽然缓存有时能提高性能，但是维护的成本更高，例如表结构和数据被修改，缓存都会失效并被删除，从 MySQL 5.7.20开始，不再推荐使用，并在MySQL 8.0中删除
+
+- 语法解析与预处理
+
+1. 将 sql 语句打碎成一个个单词
+2. 语法检查分析后生成解析树
+3. 预处理器再次进行检查后（比如表名等）， 生成一个新的解析树，结构如下：
+
+![image](https://user-images.githubusercontent.com/83901620/146774577-e24f2a71-f8d5-4c64-a235-7e7e35846984.png)
+
+- 查询优化（根据比较成本生成一个执行计划）
+
+那么它是如何从众多的计划中做选择，这就涉及到了查询优化器（Optimizer），在 MySQL 里默认使用的是基于开销的优化器，我们可以通过以下命令查看最近的查询所需要的开销：
+
+```sql
+mysql> show status like 'last_query_cost';
++
 
 [更多>>>](https://github.com/iamtomas/note/issues/8)
 
