@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/10"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-05 01:15:35"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-06 16:08:11"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,23 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [冒泡排序 - 排序算法](https://github.com/iamtomas/note/issues/13) <sup>0 :speech_balloon:</sup> 	 2022-01-06 16:07:40
+
+:label: : [算法](https://github.com/iamtomas/ghiblog/labels/%E7%AE%97%E6%B3%95)
+
+## 基本思想
+
+两两比较相邻记录的关键字，如果是反序则交换，直到没有反序为止
+
+## 特性
+
+![image](https://user-images.githubusercontent.com/83901620/148403588-e6969b52-3577-49b9-ab95-70
+
+[更多>>>](https://github.com/iamtomas/note/issues/13)
+
+---
+
 
 #### [一条SQL更新语句是如何执行的？](https://github.com/iamtomas/note/issues/12) <sup>0 :speech_balloon:</sup> 	 2022-01-01 11:05:18
 
@@ -86,23 +103,6 @@ https://leetcode-cn.com/problems/two-sum/
 
 
 [更多>>>](https://github.com/iamtomas/note/issues/9)
-
----
-
-
-#### [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/8) <sup>0 :speech_balloon:</sup> 	 2021-12-17 10:05:54
-
-:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL), [数据库](https://github.com/iamtomas/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
-
-## 服务器处理客户端
-
-处理请求的大致过程：
-
-![image](https://user-images.githubusercontent.com/83901620/146526155-87cade0d-c797-4028-9ff1-1dd0a8a69ab8.png)
-
-## 连接管
-
-[更多>>>](https://github.com/iamtomas/note/issues/8)
 
 ---
 
@@ -189,8 +189,9 @@ https://leetcode-cn.com/problems/two-sum/
 </details>
 
 <details>
-<summary>算法	<sup>1:newspaper:</sup></summary>
+<summary>算法	<sup>2:newspaper:</sup></summary>
 
+- [冒泡排序 - 排序算法](https://github.com/iamtomas/note/issues/13)  <sup>0 :speech_balloon:</sup>  	 
 - [两数之和 - 力扣（LeetCode）](https://github.com/iamtomas/note/issues/9)  <sup>0 :speech_balloon:</sup>  	 
 
 
