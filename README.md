@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/10"/>
+    <img src="https://badgen.net/badge/labels/11"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-06 16:08:11"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-09 11:24:17"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,21 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14) <sup>0 :speech_balloon:</sup> 	 2022-01-09 11:23:51
+
+:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL), [面试题](https://github.com/iamtomas/ghiblog/labels/%E9%9D%A2%E8%AF%95%E9%A2%98)
+
+## CPU飙升时如何排查与处理（MySQL）
+
+1. top命令排查是否为mysqld占用导致的，否则找出其他占用高的进程进行处理
+2. 若是mysqld导致的，则通过 `SHOW PROCESSLIST; ` 查看正在运行的进程中是否有消耗资源的SQL在运行
+3. 如果存在高消耗的SQL
+
+[更多>>>](https://github.com/iamtomas/note/issues/14)
+
+---
+
 
 #### [冒泡排序 - 排序算法](https://github.com/iamtomas/note/issues/13) <sup>0 :speech_balloon:</sup> 	 2022-01-06 16:07:40
 
@@ -87,26 +102,6 @@ InnoDB 本身就是个存储引擎，专门负责对数据做存取操作，但�
 ---
 
 
-#### [两数之和 - 力扣（LeetCode）](https://github.com/iamtomas/note/issues/9) <sup>0 :speech_balloon:</sup> 	 2021-12-21 15:12:45
-
-:label: : [算法](https://github.com/iamtomas/ghiblog/labels/%E7%AE%97%E6%B3%95)
-
-## 题目链接
-https://leetcode-cn.com/problems/two-sum/
-
-## 思路
-
-1. 暴力解法
-
-2. 哈希表
-
-
-
-[更多>>>](https://github.com/iamtomas/note/issues/9)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -147,8 +142,9 @@ https://leetcode-cn.com/problems/two-sum/
 </details>
 
 <details>
-<summary>MySQL	<sup>3:newspaper:</sup></summary>
+<summary>MySQL	<sup>4:newspaper:</sup></summary>
 
+- [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL更新语句是如何执行的？](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
@@ -193,6 +189,14 @@ https://leetcode-cn.com/problems/two-sum/
 
 - [冒泡排序 - 排序算法](https://github.com/iamtomas/note/issues/13)  <sup>0 :speech_balloon:</sup>  	 
 - [两数之和 - 力扣（LeetCode）](https://github.com/iamtomas/note/issues/9)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>面试题	<sup>1:newspaper:</sup></summary>
+
+- [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
