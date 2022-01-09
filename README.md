@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/11"/>
+    <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-09 12:20:17"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-09 16:02:43"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,26 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Redis零散知识笔记](https://github.com/iamtomas/note/issues/15) <sup>0 :speech_balloon:</sup> 	 2022-01-09 16:02:17
+
+:label: : [面试题](https://github.com/iamtomas/ghiblog/labels/%E9%9D%A2%E8%AF%95%E9%A2%98), [Redis](https://github.com/iamtomas/ghiblog/labels/Redis)
+
+## Redis的定义
+
+Redis（Remote Dictionary Server）是一个开源的使用C语言编写、支持网络、可基于内存亦可持久化的日志型、K-V 数据库，并提供多种语言的 API
+
+## 场景
+
+适用：
+
+1. 缓存（减轻MySQL压力，提高系统性能）
+2. 排行
+
+[更多>>>](https://github.com/iamtomas/note/issues/15)
+
+---
+
 
 #### [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14) <sup>0 :speech_balloon:</sup> 	 2022-01-09 11:23:51
 
@@ -87,21 +107,6 @@
 ---
 
 
-#### [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10) <sup>0 :speech_balloon:</sup> 	 2021-12-24 15:56:55
-
-:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL), [数据库](https://github.com/iamtomas/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
-
-InnoDB 本身就是个存储引擎，专门负责对数据做存取操作，但在本篇呢，仅讲述在InnoDB下的记录与页的结构
-
-## 记录结构
-
-在InnoDB下支持4种行格式：Compact、Redundant、Dynamic和Compressed，但不管怎么变，在原理上大体都是相同的，下边以Compa
-
-[更多>>>](https://github.com/iamtomas/note/issues/10)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -161,6 +166,14 @@ InnoDB 本身就是个存储引擎，专门负责对数据做存取操作，但�
 </details>
 
 <details>
+<summary>Redis	<sup>1:newspaper:</sup></summary>
+
+- [Redis零散知识笔记](https://github.com/iamtomas/note/issues/15)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
 <summary>开源	<sup>0:newspaper:</sup></summary>
 
 
@@ -194,8 +207,9 @@ InnoDB 本身就是个存储引擎，专门负责对数据做存取操作，但�
 </details>
 
 <details>
-<summary>面试题	<sup>1:newspaper:</sup></summary>
+<summary>面试题	<sup>2:newspaper:</sup></summary>
 
+- [Redis零散知识笔记](https://github.com/iamtomas/note/issues/15)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 
 
