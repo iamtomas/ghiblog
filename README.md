@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-09 16:02:43"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-10 15:08:31"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [GitLab CI/CD 实践](https://github.com/iamtomas/note/issues/16) <sup>0 :speech_balloon:</sup> 	 2022-01-10 15:08:02
+
+:label: : 
+
+在如今人人都卷的时代，当然是要花最少的时间干最多的事。检验学习成果当然是实践出真知，但在此之前先看看大体架构与基本概念
+
+![image](https://user-images.githubusercontent.com/83901620/148768810-d542a219-399c-4e0
+
+[更多>>>](https://github.com/iamtomas/note/issues/16)
+
+---
+
 
 #### [Redis零散知识笔记](https://github.com/iamtomas/note/issues/15) <sup>0 :speech_balloon:</sup> 	 2022-01-09 16:02:17
 
@@ -86,27 +99,6 @@ Redis（Remote Dictionary Server）是一个开源的使用C语言编写、支�
 ---
 
 
-#### [Rails7 demo](https://github.com/iamtomas/note/issues/11) <sup>0 :speech_balloon:</sup> 	 2021-12-26 15:38:56
-
-:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
-
-### 新功能和改进
-
-- 
-- 
-
-### DEMO
-
-### 参考
-
-- https://www.youtube.com/watch?v=mpWFrUwAN88
-- https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a
-
-[更多>>>](https://github.com/iamtomas/note/issues/11)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -126,13 +118,6 @@ Redis（Remote Dictionary Server）是一个开源的使用C语言编写、支�
 
 <details>
 <summary>:framed_picture:封面	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>bug	<sup>0:newspaper:</sup></summary>
 
 
 
@@ -193,6 +178,13 @@ Redis（Remote Dictionary Server）是一个开源的使用C语言编写、支�
 - [一条SQL更新语句是如何执行的？](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>消息队列	<sup>0:newspaper:</sup></summary>
+
 
 
 </details>
