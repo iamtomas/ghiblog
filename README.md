@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/13"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-11 02:39:36"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-11 03:13:05"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -38,16 +38,19 @@
 
 :label: : [面试题](https://github.com/iamtomas/ghiblog/labels/%E9%9D%A2%E8%AF%95%E9%A2%98), [Redis](https://github.com/iamtomas/ghiblog/labels/Redis)
 
-## Redis的定义
+## 为什么这么快
 
-Redis（Remote Dictionary Server）是一个开源的使用C语言编写、支持网络、可基于内存亦可持久化的日志型、K-V 数据库，并提供多种语言的 API
+1.  基于内存
+2. 结构简单
+3. 采用单线程
+4. 使用多路I/O复用模型，非阻塞IO
 
-## 场景
+## 支持的数据类型
 
-适用：
-
-1. 缓存（减轻MySQL压力，提高系统性能）
-2. 排行
+1. string 字符串
+2. Hash 哈希
+3. List 列表
+Redis的lpush+brpop命令可实现阻塞队列，比如生产
 
 [更多>>>](https://github.com/iamtomas/note/issues/15)
 
