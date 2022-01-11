@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/13"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-11 03:13:05"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-11 03:59:47"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,20 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17) <sup>0 :speech_balloon:</sup> 	 2022-01-11 03:59:18
+
+:label: : [面试题](https://github.com/iamtomas/ghiblog/labels/%E9%9D%A2%E8%AF%95%E9%A2%98), [消息队列](https://github.com/iamtomas/ghiblog/labels/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
+
+![image](https://user-images.githubusercontent.com/83901620/148875092-23de846b-5ad5-4268-a102-fc06c00891de.png)
+
+## 如何保证消息的可靠性传输？或者说，如何处理消息丢失的问题？
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/17)
+
+---
+
 
 #### [GitLab CI/CD 实践](https://github.com/iamtomas/note/issues/16) <sup>0 :speech_balloon:</sup> 	 2022-01-10 15:08:02
 
@@ -85,19 +99,6 @@ Redis的lpush+brpop命令可实现阻塞队列，比如生产
 ![image](https://user-images.githubusercontent.com/83901620/148403588-e6969b52-3577-49b9-ab95-70
 
 [更多>>>](https://github.com/iamtomas/note/issues/13)
-
----
-
-
-#### [一条SQL更新语句是如何执行的？](https://github.com/iamtomas/note/issues/12) <sup>0 :speech_balloon:</sup> 	 2022-01-01 11:05:18
-
-:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL), [数据库](https://github.com/iamtomas/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
-
-更新语句执行的过程其实和查询语句很类似，都是由客户端发送 SQL 语句到 Serve 层，然后通过存储引擎调用 API 去存取数据，如下图
-
-![image](https://user-images.githubusercontent.com/83901620/147848554-b68607b
-
-[更多>>>](https://github.com/iamtomas/note/issues/12)
 
 ---
 
@@ -194,8 +195,9 @@ Redis的lpush+brpop命令可实现阻塞队列，比如生产
 </details>
 
 <details>
-<summary>消息队列	<sup>0:newspaper:</sup></summary>
+<summary>消息队列	<sup>1:newspaper:</sup></summary>
 
+- [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -210,8 +212,9 @@ Redis的lpush+brpop命令可实现阻塞队列，比如生产
 </details>
 
 <details>
-<summary>面试题	<sup>2:newspaper:</sup></summary>
+<summary>面试题	<sup>3:newspaper:</sup></summary>
 
+- [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 - [Redis零散知识笔记](https://github.com/iamtomas/note/issues/15)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 
