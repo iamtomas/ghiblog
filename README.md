@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/12"/>
+    <img src="https://badgen.net/badge/labels/13"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-10 15:08:31"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-11 02:39:36"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -23,11 +23,11 @@
 
 #### [GitLab CI/CD 实践](https://github.com/iamtomas/note/issues/16) <sup>0 :speech_balloon:</sup> 	 2022-01-10 15:08:02
 
-:label: : 
+:label: : [CI/CD](https://github.com/iamtomas/ghiblog/labels/CI/CD)
 
-在如今人人都卷的时代，当然是要花最少的时间干最多的事。检验学习成果当然是实践出真知，但在此之前先看看大体架构与基本概念
+在如今人人都卷的时代，当然是要花最少的时间干最多的事。检验学习成果当然是实践出真知，但在此之前先看看工作流与基本概念
 
-![image](https://user-images.githubusercontent.com/83901620/148768810-d542a219-399c-4e0
+![image](https://user-images.githubusercontent.com/83901620/148768810-d542a219-399c-4e09
 
 [更多>>>](https://github.com/iamtomas/note/issues/16)
 
@@ -119,6 +119,14 @@ Redis（Remote Dictionary Server）是一个开源的使用C语言编写、支�
 <details>
 <summary>:framed_picture:封面	<sup>0:newspaper:</sup></summary>
 
+
+
+</details>
+
+<details>
+<summary>CI/CD	<sup>1:newspaper:</sup></summary>
+
+- [GitLab CI/CD 实践](https://github.com/iamtomas/note/issues/16)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
