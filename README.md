@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/13"/>
+    <img src="https://badgen.net/badge/labels/14"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-12 05:30:19"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-14 05:56:19"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18) <sup>0 :speech_balloon:</sup> 	 2022-01-14 05:55:51
+
+:label: : [数据库](https://github.com/iamtomas/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93), [PostgreSQL](https://github.com/iamtomas/ghiblog/labels/PostgreSQL)
+
+![image](https://user-images.githubusercontent.com/83901620/149457661-d2433bb1-34d0-4ef7-852b-c3f1ed9d7863.png)
+
+Postgresql 执行 insert、delete、update、
+
+[更多>>>](https://github.com/iamtomas/note/issues/18)
+
+---
+
 
 #### [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17) <sup>0 :speech_balloon:</sup> 	 2022-01-11 03:59:18
 
@@ -86,23 +99,6 @@ Redis的lpush+brpop命令可实现阻塞队列，比如生产
 ---
 
 
-#### [冒泡排序 - 排序算法](https://github.com/iamtomas/note/issues/13) <sup>0 :speech_balloon:</sup> 	 2022-01-06 16:07:40
-
-:label: : [算法](https://github.com/iamtomas/ghiblog/labels/%E7%AE%97%E6%B3%95)
-
-## 基本思想
-
-两两比较相邻记录的关键字，如果是反序则交换，直到没有反序为止
-
-## 特性
-
-![image](https://user-images.githubusercontent.com/83901620/148403588-e6969b52-3577-49b9-ab95-70
-
-[更多>>>](https://github.com/iamtomas/note/issues/13)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -155,6 +151,14 @@ Redis的lpush+brpop命令可实现阻塞队列，比如生产
 </details>
 
 <details>
+<summary>PostgreSQL	<sup>1:newspaper:</sup></summary>
+
+- [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
 <summary>Rails	<sup>1:newspaper:</sup></summary>
 
 - [Rails7 demo](https://github.com/iamtomas/note/issues/11)  <sup>0 :speech_balloon:</sup>  	 
@@ -185,8 +189,9 @@ Redis的lpush+brpop命令可实现阻塞队列，比如生产
 </details>
 
 <details>
-<summary>数据库	<sup>3:newspaper:</sup></summary>
+<summary>数据库	<sup>4:newspaper:</sup></summary>
 
+- [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL更新语句是如何执行的？](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
