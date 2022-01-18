@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/14"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-15 08:01:47"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-18 12:43:34"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,20 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19) <sup>0 :speech_balloon:</sup> 	 2022-01-18 12:43:09
+
+:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
+
+在 Ruby China 分享的两篇文章：
+
+https://ruby-china.org/topics/41582
+https://ruby-china.org/topics/41588
+
+[更多>>>](https://github.com/iamtomas/note/issues/19)
+
+---
+
 
 #### [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18) <sup>0 :speech_balloon:</sup> 	 2022-01-14 05:55:51
 
@@ -84,21 +98,6 @@ Redis的lpush+brpop命令可实现阻塞队列，比如生产
 ---
 
 
-#### [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14) <sup>0 :speech_balloon:</sup> 	 2022-01-09 11:23:51
-
-:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL), [面试题](https://github.com/iamtomas/ghiblog/labels/%E9%9D%A2%E8%AF%95%E9%A2%98)
-
-## CPU飙升时如何排查与处理（MySQL）
-
-1. top命令排查是否为mysqld占用导致的，否则找出其他占用高的进程进行处理
-2. 若是mysqld导致的，则通过 `SHOW PROCESSLIST; ` 查看正在运行的进程中是否有消耗资源的SQL在运行
-3. 如果存在高消耗的SQL
-
-[更多>>>](https://github.com/iamtomas/note/issues/14)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -159,8 +158,9 @@ Redis的lpush+brpop命令可实现阻塞队列，比如生产
 </details>
 
 <details>
-<summary>Rails	<sup>1:newspaper:</sup></summary>
+<summary>Rails	<sup>2:newspaper:</sup></summary>
 
+- [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 - [Rails7 demo](https://github.com/iamtomas/note/issues/11)  <sup>0 :speech_balloon:</sup>  	 
 
 
