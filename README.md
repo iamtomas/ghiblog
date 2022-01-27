@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/15"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-24 14:54:00"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-27 09:44:51"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [如何本地不安装 postgreSQL 情况下执行 `gem install pg`](https://github.com/iamtomas/note/issues/21) <sup>0 :speech_balloon:</sup> 	 2022-01-27 09:44:26
+
+:label: : [PostgreSQL](https://github.com/iamtomas/ghiblog/labels/PostgreSQL)
+
+> Docker 安装 PostgreSQL 更方便， 但 Gemfile 要求在本地安装，如何在本地不安装 PostgreSQL 下执行 `gem install pg` ？
+
+ `libpq` 是用 c 语言写的 postgreSQL 的程序接口 。在 Mac OS 环境，可以通过 `bre
+
+[更多>>>](https://github.com/iamtomas/note/issues/21)
+
+---
+
 
 #### [Docker 实践笔记](https://github.com/iamtomas/note/issues/20) <sup>0 :speech_balloon:</sup> 	 2022-01-23 15:30:11
 
@@ -73,19 +86,6 @@ Postgresql 执行 insert、delete、update、
 
 
 [更多>>>](https://github.com/iamtomas/note/issues/17)
-
----
-
-
-#### [GitLab CI/CD 实践](https://github.com/iamtomas/note/issues/16) <sup>0 :speech_balloon:</sup> 	 2022-01-10 15:08:02
-
-:label: : [CI/CD](https://github.com/iamtomas/ghiblog/labels/CI/CD)
-
-在如今人人都卷的时代，当然是要花最少的时间干最多的事。检验学习成果当然是实践出真知，但在此之前先看看工作流与基本概念
-
-![image](https://user-images.githubusercontent.com/83901620/148768810-d542a219-399c-4e09
-
-[更多>>>](https://github.com/iamtomas/note/issues/16)
 
 ---
 
@@ -150,8 +150,9 @@ Postgresql 执行 insert、delete、update、
 </details>
 
 <details>
-<summary>PostgreSQL	<sup>1:newspaper:</sup></summary>
+<summary>PostgreSQL	<sup>2:newspaper:</sup></summary>
 
+- [如何本地不安装 postgreSQL 情况下执行 `gem install pg`](https://github.com/iamtomas/note/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 
 
