@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/15"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-27 09:44:51"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-28 07:57:25"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -21,7 +21,7 @@
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [如何本地不安装 postgreSQL 情况下执行 `gem install pg`](https://github.com/iamtomas/note/issues/21) <sup>0 :speech_balloon:</sup> 	 2022-01-27 09:44:26
+#### [如何本地不安装 postgreSQL 情况下执行 gem install pg](https://github.com/iamtomas/note/issues/21) <sup>0 :speech_balloon:</sup> 	 2022-01-27 09:44:26
 
 :label: : [PostgreSQL](https://github.com/iamtomas/ghiblog/labels/PostgreSQL)
 
@@ -152,7 +152,7 @@ Postgresql 执行 insert、delete、update、
 <details>
 <summary>PostgreSQL	<sup>2:newspaper:</sup></summary>
 
-- [如何本地不安装 postgreSQL 情况下执行 `gem install pg`](https://github.com/iamtomas/note/issues/21)  <sup>0 :speech_balloon:</sup>  	 
+- [如何本地不安装 postgreSQL 情况下执行 gem install pg](https://github.com/iamtomas/note/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 
 
