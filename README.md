@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/15"/>
+    <img src="https://badgen.net/badge/labels/16"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-28 08:57:08"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-09 09:26:48"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,24 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [解决OSX使用oh-my-zsh后.bash_profile自定义失效](https://github.com/iamtomas/note/issues/23) <sup>0 :speech_balloon:</sup> 	 2022-02-09 09:26:20
+
+:label: : [踩坑](https://github.com/iamtomas/ghiblog/labels/%E8%B8%A9%E5%9D%91)
+
+### 原因
+oh-my-zsh的配置文件为.zshrc，而默认shell(bash)的配置文件为.bash_profile
+
+### 如何解决
+
+打开oh-my-zsh的配置文件 `.zshrc`
+
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/23)
+
+---
+
 
 #### [Docker Demo（进阶）](https://github.com/iamtomas/note/issues/22) <sup>0 :speech_balloon:</sup> 	 2022-01-28 08:56:41
 
@@ -70,19 +88,6 @@ https://ruby-china.org/topics/41582
 https://ruby-china.org/topics/41588
 
 [更多>>>](https://github.com/iamtomas/note/issues/19)
-
----
-
-
-#### [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18) <sup>0 :speech_balloon:</sup> 	 2022-01-14 05:55:51
-
-:label: : [数据库](https://github.com/iamtomas/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93), [PostgreSQL](https://github.com/iamtomas/ghiblog/labels/PostgreSQL)
-
-![image](https://user-images.githubusercontent.com/83901620/149457661-d2433bb1-34d0-4ef7-852b-c3f1ed9d7863.png)
-
-Postgresql 执行 insert、delete、update、
-
-[更多>>>](https://github.com/iamtomas/note/issues/18)
 
 ---
 
@@ -211,6 +216,14 @@ Postgresql 执行 insert、delete、update、
 
 - [冒泡排序 - 排序算法](https://github.com/iamtomas/note/issues/13)  <sup>0 :speech_balloon:</sup>  	 
 - [两数之和 - 力扣（LeetCode）](https://github.com/iamtomas/note/issues/9)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>踩坑	<sup>1:newspaper:</sup></summary>
+
+- [解决OSX使用oh-my-zsh后.bash_profile自定义失效](https://github.com/iamtomas/note/issues/23)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
