@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/16"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-09 09:26:48"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-09 10:03:32"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Docker-compose up failing because "port is already allocated"](https://github.com/iamtomas/note/issues/24) <sup>0 :speech_balloon:</sup> 	 2022-02-09 10:03:06
+
+:label: : [Docker](https://github.com/iamtomas/ghiblog/labels/Docker)
+
+![image](https://user-images.githubusercontent.com/83901620/153175090-89160e54-1b13-426d-ab11-fcb62679097c.png)
+
+参考：https://github.com/docker/compos
+
+[更多>>>](https://github.com/iamtomas/note/issues/24)
+
+---
+
 
 #### [解决OSX使用oh-my-zsh后.bash_profile自定义失效](https://github.com/iamtomas/note/issues/23) <sup>0 :speech_balloon:</sup> 	 2022-02-09 09:26:20
 
@@ -78,20 +91,6 @@ Docker 是依赖于 Linux 而存在的。那么问题来了，Docker Desktop 是
 ---
 
 
-#### [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19) <sup>0 :speech_balloon:</sup> 	 2022-01-18 12:43:09
-
-:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
-
-在 Ruby China 分享的两篇文章：
-
-https://ruby-china.org/topics/41582
-https://ruby-china.org/topics/41588
-
-[更多>>>](https://github.com/iamtomas/note/issues/19)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -125,8 +124,9 @@ https://ruby-china.org/topics/41588
 </details>
 
 <details>
-<summary>Docker	<sup>2:newspaper:</sup></summary>
+<summary>Docker	<sup>3:newspaper:</sup></summary>
 
+- [Docker-compose up failing because "port is already allocated"](https://github.com/iamtomas/note/issues/24)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker Demo（进阶）](https://github.com/iamtomas/note/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker 实践笔记](https://github.com/iamtomas/note/issues/20)  <sup>0 :speech_balloon:</sup>  	 
 
