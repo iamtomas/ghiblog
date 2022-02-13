@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/16"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-09 10:03:32"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-13 15:18:10"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -76,17 +76,16 @@ oh-my-zsh的配置文件为.zshrc，而默认shell(bash)的配置文件为.bash_
 ---
 
 
-#### [Docker 实践笔记](https://github.com/iamtomas/note/issues/20) <sup>0 :speech_balloon:</sup> 	 2022-01-23 15:30:11
+#### [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19) <sup>0 :speech_balloon:</sup> 	 2022-01-18 12:43:09
 
-:label: : [Docker](https://github.com/iamtomas/ghiblog/labels/Docker)
+:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
 
-## 五、Docker Desktop
+在 Ruby China 分享的两篇文章：
 
-Docker 是依赖于 Linux 而存在的。那么问题来了，Docker Desktop 是如何实现让我们在 Windows 和 macOS 中如此顺畅的使用 Docker 的呢？
+https://ruby-china.org/topics/41582
+https://ruby-china.org/topics/41588
 
-其实 Docker Desktop 的实现逻辑很简单：既然 Win
-
-[更多>>>](https://github.com/iamtomas/note/issues/20)
+[更多>>>](https://github.com/iamtomas/note/issues/19)
 
 ---
 
@@ -124,11 +123,10 @@ Docker 是依赖于 Linux 而存在的。那么问题来了，Docker Desktop 是
 </details>
 
 <details>
-<summary>Docker	<sup>3:newspaper:</sup></summary>
+<summary>Docker	<sup>2:newspaper:</sup></summary>
 
 - [Docker-compose up failing because "port is already allocated"](https://github.com/iamtomas/note/issues/24)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker Demo（进阶）](https://github.com/iamtomas/note/issues/22)  <sup>0 :speech_balloon:</sup>  	 
-- [Docker 实践笔记](https://github.com/iamtomas/note/issues/20)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
