@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/16"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-13 15:52:34"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-14 15:25:40"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Docker入门二](https://github.com/iamtomas/note/issues/26) <sup>0 :speech_balloon:</sup> 	 2022-02-14 15:25:15
+
+:label: : [Docker](https://github.com/iamtomas/ghiblog/labels/Docker)
+
+组织编排Docker容器概念图
+
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/83901620/153891833-1e3375c1-3caa-484c-b002-756f37a4f482
+
+[更多>>>](https://github.com/iamtomas/note/issues/26)
+
+---
+
 
 #### [Docker入门一](https://github.com/iamtomas/note/issues/25) <sup>0 :speech_balloon:</sup> 	 2022-02-13 15:28:39
 
@@ -76,19 +89,6 @@ oh-my-zsh的配置文件为.zshrc，而默认shell(bash)的配置文件为.bash_
 ---
 
 
-#### [如何本地不安装 postgreSQL 情况下执行 gem install pg](https://github.com/iamtomas/note/issues/21) <sup>0 :speech_balloon:</sup> 	 2022-01-27 09:44:26
-
-:label: : [PostgreSQL](https://github.com/iamtomas/ghiblog/labels/PostgreSQL)
-
-> Docker 安装 PostgreSQL 更方便， 但 Gemfile 要求在本地安装，如何在本地不安装 PostgreSQL 下执行 `gem install pg` ？
-
- `libpq` 是用 c 语言写的 postgreSQL 的程序接口 。在 Mac OS 环境，可以通过 `bre
-
-[更多>>>](https://github.com/iamtomas/note/issues/21)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -122,8 +122,9 @@ oh-my-zsh的配置文件为.zshrc，而默认shell(bash)的配置文件为.bash_
 </details>
 
 <details>
-<summary>Docker	<sup>3:newspaper:</sup></summary>
+<summary>Docker	<sup>4:newspaper:</sup></summary>
 
+- [Docker入门二](https://github.com/iamtomas/note/issues/26)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker入门一](https://github.com/iamtomas/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker-compose up failing because "port is already allocated"](https://github.com/iamtomas/note/issues/24)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker Demo（进阶）](https://github.com/iamtomas/note/issues/22)  <sup>0 :speech_balloon:</sup>  	 
