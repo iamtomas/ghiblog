@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/16"/>
+    <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-14 15:25:40"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-15 15:52:15"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,20 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Kubernetes入门一](https://github.com/iamtomas/note/issues/27) <sup>0 :speech_balloon:</sup> 	 2022-02-15 15:51:43
+
+:label: : [K8s](https://github.com/iamtomas/ghiblog/labels/K8s)
+
+K8s概念图
+
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/83901620/154097970-9161f696-fb8a-4ae5-93ba-b5b2d3c985bb.png">
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/27)
+
+---
+
 
 #### [Docker入门二](https://github.com/iamtomas/note/issues/26) <sup>0 :speech_balloon:</sup> 	 2022-02-14 15:25:15
 
@@ -78,17 +92,6 @@ oh-my-zsh的配置文件为.zshrc，而默认shell(bash)的配置文件为.bash_
 ---
 
 
-#### [Docker Demo（进阶）](https://github.com/iamtomas/note/issues/22) <sup>0 :speech_balloon:</sup> 	 2022-01-28 08:56:41
-
-:label: : [Docker](https://github.com/iamtomas/ghiblog/labels/Docker)
-
-
-
-[更多>>>](https://github.com/iamtomas/note/issues/22)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -136,6 +139,14 @@ oh-my-zsh的配置文件为.zshrc，而默认shell(bash)的配置文件为.bash_
 <summary>good first issue	<sup>1:newspaper:</sup></summary>
 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>K8s	<sup>1:newspaper:</sup></summary>
+
+- [Kubernetes入门一](https://github.com/iamtomas/note/issues/27)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
