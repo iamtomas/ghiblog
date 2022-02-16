@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-15 15:52:15"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-16 14:52:24"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -25,10 +25,11 @@
 
 :label: : [K8s](https://github.com/iamtomas/ghiblog/labels/K8s)
 
-K8s概念图
+### K8s概念图
 
-<img width="478" alt="image" src="https://user-images.githubusercontent.com/83901620/154097970-9161f696-fb8a-4ae5-93ba-b5b2d3c985bb.png">
+> 版本较旧，有些指令可能不用了，详情可参照中文文档
 
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/83901620/154097970-9161f696-fb
 
 [更多>>>](https://github.com/iamtomas/note/issues/27)
 
