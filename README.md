@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-20 13:28:57"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-20 14:18:08"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -25,7 +25,9 @@
 
 :label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL), [数据库](https://github.com/iamtomas/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
 
-http://open.yesapi.cn/list.html
+表设计：http://open.yesapi.cn/list.html
+
+绘制 ER 图工具：https://dbdiagram.io/home
 
 [更多>>>](https://github.com/iamtomas/note/issues/28)
 
