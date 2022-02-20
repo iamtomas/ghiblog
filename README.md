@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-16 14:52:24"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-20 13:28:57"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,17 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [数据库设计大全](https://github.com/iamtomas/note/issues/28) <sup>0 :speech_balloon:</sup> 	 2022-02-20 13:28:31
+
+:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL), [数据库](https://github.com/iamtomas/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
+
+http://open.yesapi.cn/list.html
+
+[更多>>>](https://github.com/iamtomas/note/issues/28)
+
+---
+
 
 #### [Kubernetes入门一](https://github.com/iamtomas/note/issues/27) <sup>0 :speech_balloon:</sup> 	 2022-02-15 15:51:43
 
@@ -71,24 +82,6 @@
 参考：https://github.com/docker/compos
 
 [更多>>>](https://github.com/iamtomas/note/issues/24)
-
----
-
-
-#### [解决OSX使用oh-my-zsh后.bash_profile自定义失效](https://github.com/iamtomas/note/issues/23) <sup>0 :speech_balloon:</sup> 	 2022-02-09 09:26:20
-
-:label: : [踩坑](https://github.com/iamtomas/ghiblog/labels/%E8%B8%A9%E5%9D%91)
-
-### 原因
-oh-my-zsh的配置文件为.zshrc，而默认shell(bash)的配置文件为.bash_profile
-
-### 如何解决
-
-打开oh-my-zsh的配置文件 `.zshrc`
-
-
-
-[更多>>>](https://github.com/iamtomas/note/issues/23)
 
 ---
 
@@ -153,8 +146,9 @@ oh-my-zsh的配置文件为.zshrc，而默认shell(bash)的配置文件为.bash_
 </details>
 
 <details>
-<summary>MySQL	<sup>4:newspaper:</sup></summary>
+<summary>MySQL	<sup>5:newspaper:</sup></summary>
 
+- [数据库设计大全](https://github.com/iamtomas/note/issues/28)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL更新语句是如何执行的？](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
@@ -204,8 +198,9 @@ oh-my-zsh的配置文件为.zshrc，而默认shell(bash)的配置文件为.bash_
 </details>
 
 <details>
-<summary>数据库	<sup>4:newspaper:</sup></summary>
+<summary>数据库	<sup>5:newspaper:</sup></summary>
 
+- [数据库设计大全](https://github.com/iamtomas/note/issues/28)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL更新语句是如何执行的？](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
