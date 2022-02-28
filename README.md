@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-28 06:52:58"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-28 08:43:01"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [grpc_c.bundle fails to load on Apple M1 (wrong architecture) ](https://github.com/iamtomas/note/issues/30) <sup>0 :speech_balloon:</sup> 	 2022-02-28 08:42:36
+
+:label: : [踩坑](https://github.com/iamtomas/ghiblog/labels/%E8%B8%A9%E5%9D%91)
+
+起因：Apple M1 下执行 `bundle exec db:create`
+
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/83901620/155951609-dd8276cb-2d1
+
+[更多>>>](https://github.com/iamtomas/note/issues/30)
+
+---
+
 
 #### [ld: library not found for -lzstd while bundle install for mysql2 gem Ruby on macOS Big Sur](https://github.com/iamtomas/note/issues/29) <sup>0 :speech_balloon:</sup> 	 2022-02-28 06:52:29
 
@@ -71,19 +84,6 @@ macOS Big Sur 11.6
 <img width="580" alt="image" src="https://user-images.githubusercontent.com/83901620/153891833-1e3375c1-3caa-484c-b002-756f37a4f482
 
 [更多>>>](https://github.com/iamtomas/note/issues/26)
-
----
-
-
-#### [Docker入门一](https://github.com/iamtomas/note/issues/25) <sup>0 :speech_balloon:</sup> 	 2022-02-13 15:28:39
-
-:label: : [Docker](https://github.com/iamtomas/ghiblog/labels/Docker)
-
-非常适合入门的概念图
-
-<img width="306" alt="image" src="https://user-images.githubusercontent.com/83901620/153760006-0bab140c-d286-4438-b5c2-580b0b648594.png"
-
-[更多>>>](https://github.com/iamtomas/note/issues/25)
 
 ---
 
@@ -229,8 +229,9 @@ macOS Big Sur 11.6
 </details>
 
 <details>
-<summary>踩坑	<sup>2:newspaper:</sup></summary>
+<summary>踩坑	<sup>3:newspaper:</sup></summary>
 
+- [grpc_c.bundle fails to load on Apple M1 (wrong architecture) ](https://github.com/iamtomas/note/issues/30)  <sup>0 :speech_balloon:</sup>  	 
 - [ld: library not found for -lzstd while bundle install for mysql2 gem Ruby on macOS Big Sur](https://github.com/iamtomas/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 
 - [解决OSX使用oh-my-zsh后.bash_profile自定义失效](https://github.com/iamtomas/note/issues/23)  <sup>0 :speech_balloon:</sup>  	 
 
