@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-20 14:18:08"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-28 06:52:58"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [ld: library not found for -lzstd while bundle install for mysql2 gem Ruby on macOS Big Sur](https://github.com/iamtomas/note/issues/29) <sup>0 :speech_balloon:</sup> 	 2022-02-28 06:52:29
+
+:label: : [踩坑](https://github.com/iamtomas/ghiblog/labels/%E8%B8%A9%E5%9D%91)
+
+macOS Big Sur 11.6
+
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/29)
+
+---
+
 
 #### [数据库设计大全](https://github.com/iamtomas/note/issues/28) <sup>0 :speech_balloon:</sup> 	 2022-02-20 13:28:31
 
@@ -71,19 +84,6 @@
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/83901620/153760006-0bab140c-d286-4438-b5c2-580b0b648594.png"
 
 [更多>>>](https://github.com/iamtomas/note/issues/25)
-
----
-
-
-#### [Docker-compose up failing because "port is already allocated"](https://github.com/iamtomas/note/issues/24) <sup>0 :speech_balloon:</sup> 	 2022-02-09 10:03:06
-
-:label: : [Docker](https://github.com/iamtomas/ghiblog/labels/Docker)
-
-![image](https://user-images.githubusercontent.com/83901620/153175090-89160e54-1b13-426d-ab11-fcb62679097c.png)
-
-参考：https://github.com/docker/compos
-
-[更多>>>](https://github.com/iamtomas/note/issues/24)
 
 ---
 
@@ -229,8 +229,9 @@
 </details>
 
 <details>
-<summary>踩坑	<sup>1:newspaper:</sup></summary>
+<summary>踩坑	<sup>2:newspaper:</sup></summary>
 
+- [ld: library not found for -lzstd while bundle install for mysql2 gem Ruby on macOS Big Sur](https://github.com/iamtomas/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 
 - [解决OSX使用oh-my-zsh后.bash_profile自定义失效](https://github.com/iamtomas/note/issues/23)  <sup>0 :speech_balloon:</sup>  	 
 
 
