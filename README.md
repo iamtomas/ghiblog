@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-24 13:42:12"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-24 16:52:15"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,21 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Kafka](https://github.com/iamtomas/note/issues/32) <sup>0 :speech_balloon:</sup> 	 2022-03-24 16:23:17
+
+:label: : [消息队列](https://github.com/iamtomas/ghiblog/labels/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
+
+架构图：
+
+<img width="784" alt="image" src="https://user-images.githubusercontent.com/83901620/159956060-84356be8-1ab1-42bd-9567-c34ab9bbefc5.png">
+
+1
+
+[更多>>>](https://github.com/iamtomas/note/issues/32)
+
+---
+
 
 #### [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31) <sup>0 :speech_balloon:</sup> 	 2022-03-24 13:37:10
 
@@ -71,21 +86,6 @@ macOS Big Sur 11.6
 绘制 ER 图工具：https://dbdiagram.io/home
 
 [更多>>>](https://github.com/iamtomas/note/issues/28)
-
----
-
-
-#### [Kubernetes入门一](https://github.com/iamtomas/note/issues/27) <sup>0 :speech_balloon:</sup> 	 2022-02-15 15:51:43
-
-:label: : [K8s](https://github.com/iamtomas/ghiblog/labels/K8s)
-
-### K8s概念图
-
-> 版本较旧，有些指令可能不用了，详情可参照中文文档
-
-<img width="478" alt="image" src="https://user-images.githubusercontent.com/83901620/154097970-9161f696-fb
-
-[更多>>>](https://github.com/iamtomas/note/issues/27)
 
 ---
 
@@ -215,8 +215,9 @@ macOS Big Sur 11.6
 </details>
 
 <details>
-<summary>消息队列	<sup>1:newspaper:</sup></summary>
+<summary>消息队列	<sup>2:newspaper:</sup></summary>
 
+- [Kafka](https://github.com/iamtomas/note/issues/32)  <sup>0 :speech_balloon:</sup>  	 
 - [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 
 
