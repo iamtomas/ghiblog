@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-24 13:37:37"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-24 13:42:12"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -27,7 +27,7 @@
 
 问题：状态发生变化时，状态列会更新但不会保存
 
-举个例子：
+举个例子：调用 `#close` 将状态设置为 `closed` ，但不会自动保存
 
 
 
