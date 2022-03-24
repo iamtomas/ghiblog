@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-28 08:43:01"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-24 13:37:37"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,21 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31) <sup>0 :speech_balloon:</sup> 	 2022-03-24 13:37:10
+
+:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
+
+问题：状态发生变化时，状态列会更新但不会保存
+
+举个例子：
+
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/31)
+
+---
+
 
 #### [grpc_c.bundle fails to load on Apple M1 (wrong architecture) ](https://github.com/iamtomas/note/issues/30) <sup>0 :speech_balloon:</sup> 	 2022-02-28 08:42:36
 
@@ -71,19 +86,6 @@ macOS Big Sur 11.6
 <img width="478" alt="image" src="https://user-images.githubusercontent.com/83901620/154097970-9161f696-fb
 
 [更多>>>](https://github.com/iamtomas/note/issues/27)
-
----
-
-
-#### [Docker入门二](https://github.com/iamtomas/note/issues/26) <sup>0 :speech_balloon:</sup> 	 2022-02-14 15:25:15
-
-:label: : [Docker](https://github.com/iamtomas/ghiblog/labels/Docker)
-
-组织编排Docker容器概念图
-
-<img width="580" alt="image" src="https://user-images.githubusercontent.com/83901620/153891833-1e3375c1-3caa-484c-b002-756f37a4f482
-
-[更多>>>](https://github.com/iamtomas/note/issues/26)
 
 ---
 
@@ -169,8 +171,9 @@ macOS Big Sur 11.6
 </details>
 
 <details>
-<summary>Rails	<sup>2:newspaper:</sup></summary>
+<summary>Rails	<sup>3:newspaper:</sup></summary>
 
+- [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 - [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 - [Rails7 demo](https://github.com/iamtomas/note/issues/11)  <sup>0 :speech_balloon:</sup>  	 
 
