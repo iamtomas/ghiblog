@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/17"/>
+    <img src="https://badgen.net/badge/labels/18"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-24 16:52:15"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-30 07:50:20"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,21 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Sidekiq](https://github.com/iamtomas/note/issues/33) <sup>0 :speech_balloon:</sup> 	 2022-03-30 07:49:54
+
+:label: : [sidekiq](https://github.com/iamtomas/ghiblog/labels/sidekiq)
+
+定义：用于处理后台任务且依赖于 Redis 的工具
+
+快速使用：
+
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/33)
+
+---
+
 
 #### [Kafka](https://github.com/iamtomas/note/issues/32) <sup>0 :speech_balloon:</sup> 	 2022-03-24 16:23:17
 
@@ -73,19 +88,6 @@ macOS Big Sur 11.6
 
 
 [更多>>>](https://github.com/iamtomas/note/issues/29)
-
----
-
-
-#### [数据库设计大全](https://github.com/iamtomas/note/issues/28) <sup>0 :speech_balloon:</sup> 	 2022-02-20 13:28:31
-
-:label: : [MySQL](https://github.com/iamtomas/ghiblog/labels/MySQL), [数据库](https://github.com/iamtomas/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
-
-表设计：http://open.yesapi.cn/list.html
-
-绘制 ER 图工具：https://dbdiagram.io/home
-
-[更多>>>](https://github.com/iamtomas/note/issues/28)
 
 ---
 
@@ -184,6 +186,14 @@ macOS Big Sur 11.6
 <summary>Redis	<sup>1:newspaper:</sup></summary>
 
 - [Redis零散知识笔记](https://github.com/iamtomas/note/issues/15)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>sidekiq	<sup>1:newspaper:</sup></summary>
+
+- [Sidekiq](https://github.com/iamtomas/note/issues/33)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
