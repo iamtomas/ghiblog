@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/18"/>
+    <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-30 07:50:20"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-31 07:43:37"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -23,7 +23,7 @@
 
 #### [Sidekiq](https://github.com/iamtomas/note/issues/33) <sup>0 :speech_balloon:</sup> 	 2022-03-30 07:49:54
 
-:label: : [sidekiq](https://github.com/iamtomas/ghiblog/labels/sidekiq)
+:label: : [Sidekiq](https://github.com/iamtomas/ghiblog/labels/Sidekiq)
 
 定义：用于处理后台任务且依赖于 Redis 的工具
 
@@ -38,7 +38,7 @@
 
 #### [Kafka](https://github.com/iamtomas/note/issues/32) <sup>0 :speech_balloon:</sup> 	 2022-03-24 16:23:17
 
-:label: : [消息队列](https://github.com/iamtomas/ghiblog/labels/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
+:label: : [MQ](https://github.com/iamtomas/ghiblog/labels/MQ)
 
 架构图：
 
@@ -152,6 +152,15 @@ macOS Big Sur 11.6
 </details>
 
 <details>
+<summary>MQ	<sup>2:newspaper:</sup></summary>
+
+- [Kafka](https://github.com/iamtomas/note/issues/32)  <sup>0 :speech_balloon:</sup>  	 
+- [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
 <summary>MySQL	<sup>5:newspaper:</sup></summary>
 
 - [数据库设计大全](https://github.com/iamtomas/note/issues/28)  <sup>0 :speech_balloon:</sup>  	 
@@ -191,9 +200,16 @@ macOS Big Sur 11.6
 </details>
 
 <details>
-<summary>sidekiq	<sup>1:newspaper:</sup></summary>
+<summary>Sidekiq	<sup>1:newspaper:</sup></summary>
 
 - [Sidekiq](https://github.com/iamtomas/note/issues/33)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>开发环境	<sup>0:newspaper:</sup></summary>
+
 
 
 </details>
@@ -220,15 +236,6 @@ macOS Big Sur 11.6
 - [一条SQL更新语句是如何执行的？](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL中InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>消息队列	<sup>2:newspaper:</sup></summary>
-
-- [Kafka](https://github.com/iamtomas/note/issues/32)  <sup>0 :speech_balloon:</sup>  	 
-- [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
