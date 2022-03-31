@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-31 09:00:49"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-31 09:02:37"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -21,7 +21,22 @@
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [开发环境](https://github.com/iamtomas/note/issues/35) <sup>0 :speech_balloon:</sup> 	 2022-03-31 09:00:24
+#### [K8s + Helm](https://github.com/iamtomas/note/issues/36) <sup>0 :speech_balloon:</sup> 	 2022-03-31 09:02:12
+
+:label: : [K8s](https://github.com/iamtomas/ghiblog/labels/K8s)
+
+定义：The package manager for Kubernetes
+
+解决：K8s 抽象了各种各样的资源，如Pod、deployemnt、Service等，Helm 作为包管理器可以对这些多资源进⾏管理
+
+待更新
+
+[更多>>>](https://github.com/iamtomas/note/issues/36)
+
+---
+
+
+#### [M1开发环境](https://github.com/iamtomas/note/issues/35) <sup>0 :speech_balloon:</sup> 	 2022-03-31 09:00:24
 
 :label: : [部署](https://github.com/iamtomas/ghiblog/labels/%E9%83%A8%E7%BD%B2)
 
@@ -138,19 +153,6 @@ brew install redis
 ---
 
 
-#### [grpc_c.bundle fails to load on Apple M1 (wrong architecture) ](https://github.com/iamtomas/note/issues/30) <sup>0 :speech_balloon:</sup> 	 2022-02-28 08:42:36
-
-:label: : [踩坑](https://github.com/iamtomas/ghiblog/labels/%E8%B8%A9%E5%9D%91)
-
-起因：Apple M1 下执行 `bundle exec db:create`
-
-<img width="908" alt="image" src="https://user-images.githubusercontent.com/83901620/155951609-dd8276cb-2d1
-
-[更多>>>](https://github.com/iamtomas/note/issues/30)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -203,8 +205,9 @@ brew install redis
 </details>
 
 <details>
-<summary>K8s	<sup>1:newspaper:</sup></summary>
+<summary>K8s	<sup>2:newspaper:</sup></summary>
 
+- [K8s + Helm](https://github.com/iamtomas/note/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [Kubernetes入门一](https://github.com/iamtomas/note/issues/27)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -314,7 +317,7 @@ brew install redis
 <details>
 <summary>部署	<sup>1:newspaper:</sup></summary>
 
-- [开发环境](https://github.com/iamtomas/note/issues/35)  <sup>0 :speech_balloon:</sup>  	 
+- [M1开发环境](https://github.com/iamtomas/note/issues/35)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
