@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-31 07:43:37"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-31 09:00:49"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,78 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [开发环境](https://github.com/iamtomas/note/issues/35) <sup>0 :speech_balloon:</sup> 	 2022-03-31 09:00:24
+
+:label: : [部署](https://github.com/iamtomas/ghiblog/labels/%E9%83%A8%E7%BD%B2)
+
+# brew
+
+从官网下载（如果因网络问题拉不下来，可以下载国内的脚本）后，把镜像修改成国内
+
+# asdf
+
+负责多环境管理（包括 node 、ruby、go等）
+
+```zsh
+brew install asdf
+```
+
+# git
+
+不要使用系统自带的 git
+
+```zsh
+brew install git
+```
+
+# mysql
+
+```zsh
+brew install mysql
+```
+
+# navicat premium 16.0.9
+
+无需注册码
+
+# docker
+
+```zsh
+brew install docker
+```
+
+# k8s
+
+网上查询下，下载规定版本的 docker desktop，可以通过镜像启动 k8s
+
+# helm
+
+```zsh
+brew install helm
+```
+
+# redis
+
+```zsh
+brew install redis
+```
+
+# java
+
+官网下载
+
+# kafka
+
+在 m1 芯片下通过 brew 安装始终启动不了，也确保了 java 和 zookeeper 环境存在，最后通过 docker 将 kafka 和 zookeeper 容器跑起来
+
+```yml
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/35)
+
+---
+
 
 #### [Sidekiq](https://github.com/iamtomas/note/issues/33) <sup>0 :speech_balloon:</sup> 	 2022-03-30 07:49:54
 
@@ -75,19 +147,6 @@
 <img width="908" alt="image" src="https://user-images.githubusercontent.com/83901620/155951609-dd8276cb-2d1
 
 [更多>>>](https://github.com/iamtomas/note/issues/30)
-
----
-
-
-#### [ld: library not found for -lzstd while bundle install for mysql2 gem Ruby on macOS Big Sur](https://github.com/iamtomas/note/issues/29) <sup>0 :speech_balloon:</sup> 	 2022-02-28 06:52:29
-
-:label: : [踩坑](https://github.com/iamtomas/ghiblog/labels/%E8%B8%A9%E5%9D%91)
-
-macOS Big Sur 11.6
-
-
-
-[更多>>>](https://github.com/iamtomas/note/issues/29)
 
 ---
 
@@ -208,13 +267,6 @@ macOS Big Sur 11.6
 </details>
 
 <details>
-<summary>开发环境	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
 <summary>开源	<sup>0:newspaper:</sup></summary>
 
 
@@ -255,6 +307,14 @@ macOS Big Sur 11.6
 - [grpc_c.bundle fails to load on Apple M1 (wrong architecture) ](https://github.com/iamtomas/note/issues/30)  <sup>0 :speech_balloon:</sup>  	 
 - [ld: library not found for -lzstd while bundle install for mysql2 gem Ruby on macOS Big Sur](https://github.com/iamtomas/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 
 - [解决OSX使用oh-my-zsh后.bash_profile自定义失效](https://github.com/iamtomas/note/issues/23)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>部署	<sup>1:newspaper:</sup></summary>
+
+- [开发环境](https://github.com/iamtomas/note/issues/35)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
