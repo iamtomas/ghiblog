@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-31 09:02:37"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-01 01:49:05"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -58,6 +58,33 @@ brew install asdf
 
 ```zsh
 brew install git
+```
+
+另外 M1 下通过 `brew install bash-completion` 方式无法实现 git 补全，而是采用下边方式
+
+```zsh
+curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
+
+mkdir ~/.zsh
+
+cp git-completion.bash ~/.zsh/.git-completion.bash
+
+# ~/.zshrc
+zstyle ':completion:*:*:git:*' script ~/.zsh/.git-completion.bash
+fpath=(~/.zsh $fpath)
+autoload -Uz compinit && compinit
+```
+
+terminal 显示 git 分支则可以采用以下方式
+
+```zsh
+# ~/.zshrc
+function parse_git_branch() {
+    git branch 2> /dev/null | sed -n -e 's/^\* \(.*\)/[\1]/p'
+}
+
+setopt PROMPT_SUBST
+export PROMPT='%F{grey}%n%f %F{cyan}%~%f %F{green}$(parse_git_branch)%f %F{normal}$%f '
 ```
 
 # mysql
