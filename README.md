@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/19"/>
+    <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-01 01:49:05"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-05 15:33:34"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,23 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Rack](https://github.com/iamtomas/note/issues/37) <sup>0 :speech_balloon:</sup> 	 2022-04-05 15:33:04
+
+:label: : [Rack](https://github.com/iamtomas/ghiblog/labels/Rack)
+
+将了解到
+- 什么是 Rack
+- Rack 实现原理
+- 如何使用 Rack
+- Rack 的作用及场景
+
+什么是 Rake ：一般 Ruby Web Application 包含 Framework（如 Rails、Sinatra 等）、Rack 层及 WebServer 层（如 p
+
+[更多>>>](https://github.com/iamtomas/note/issues/37)
+
+---
+
 
 #### [K8s + Helm](https://github.com/iamtomas/note/issues/36) <sup>0 :speech_balloon:</sup> 	 2022-03-31 09:02:12
 
@@ -165,21 +182,6 @@ brew install redis
 ---
 
 
-#### [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31) <sup>0 :speech_balloon:</sup> 	 2022-03-24 13:37:10
-
-:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
-
-问题：状态发生变化时，状态列会更新但不会保存
-
-举个例子：调用 `#close` 将状态设置为 `closed` ，但不会自动保存
-
-
-
-[更多>>>](https://github.com/iamtomas/note/issues/31)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -266,6 +268,14 @@ brew install redis
 
 - [如何本地不安装 postgreSQL 情况下执行 gem install pg](https://github.com/iamtomas/note/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>Rack	<sup>1:newspaper:</sup></summary>
+
+- [Rack](https://github.com/iamtomas/note/issues/37)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
