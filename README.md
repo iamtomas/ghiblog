@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-06 13:36:20"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-06 13:38:56"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -21,7 +21,7 @@
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [database.yaml 的 collation 属性](https://github.com/iamtomas/note/issues/39) <sup>0 :speech_balloon:</sup> 	 2022-04-06 10:25:54
+#### [database.yml 的 collation 属性](https://github.com/iamtomas/note/issues/39) <sup>0 :speech_balloon:</sup> 	 2022-04-06 10:25:54
 
 :label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
 
@@ -45,7 +45,7 @@
 ---
 
 
-#### [Rack](https://github.com/iamtomas/note/issues/37) <sup>0 :speech_balloon:</sup> 	 2022-04-05 15:33:04
+#### [初识 Rack](https://github.com/iamtomas/note/issues/37) <sup>0 :speech_balloon:</sup> 	 2022-04-05 15:33:04
 
 :label: : [Rack](https://github.com/iamtomas/ghiblog/labels/Rack)
 
@@ -269,7 +269,7 @@ brew install redis
 <details>
 <summary>Rack	<sup>1:newspaper:</sup></summary>
 
-- [Rack](https://github.com/iamtomas/note/issues/37)  <sup>0 :speech_balloon:</sup>  	 
+- [初识 Rack](https://github.com/iamtomas/note/issues/37)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -277,7 +277,7 @@ brew install redis
 <details>
 <summary>Rails	<sup>5:newspaper:</sup></summary>
 
-- [database.yaml 的 collation 属性](https://github.com/iamtomas/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
+- [database.yml 的 collation 属性](https://github.com/iamtomas/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [Dotenv 配置修改后不刷新](https://github.com/iamtomas/note/issues/38)  <sup>0 :speech_balloon:</sup>  	 
 - [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 - [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19)  <sup>0 :speech_balloon:</sup>  	 
