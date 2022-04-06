@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-06 13:38:56"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-06 13:39:46"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -62,7 +62,7 @@
 ---
 
 
-#### [K8s + Helm](https://github.com/iamtomas/note/issues/36) <sup>0 :speech_balloon:</sup> 	 2022-03-31 09:02:12
+#### [初识 K8s + Helm](https://github.com/iamtomas/note/issues/36) <sup>0 :speech_balloon:</sup> 	 2022-03-31 09:02:12
 
 :label: : [K8s](https://github.com/iamtomas/ghiblog/labels/K8s)
 
@@ -230,7 +230,7 @@ brew install redis
 <details>
 <summary>K8s	<sup>2:newspaper:</sup></summary>
 
-- [K8s + Helm](https://github.com/iamtomas/note/issues/36)  <sup>0 :speech_balloon:</sup>  	 
+- [初识 K8s + Helm](https://github.com/iamtomas/note/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [Kubernetes入门一](https://github.com/iamtomas/note/issues/27)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -297,7 +297,7 @@ brew install redis
 <details>
 <summary>Sidekiq	<sup>1:newspaper:</sup></summary>
 
-- [Sidekiq](https://github.com/iamtomas/note/issues/33)  <sup>0 :speech_balloon:</sup>  	 
+- [浅析 Sidekiq](https://github.com/iamtomas/note/issues/33)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
