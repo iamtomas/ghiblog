@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-06 03:23:21"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-06 05:34:57"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,17 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Rails Dotenv 不刷新](https://github.com/iamtomas/note/issues/38) <sup>0 :speech_balloon:</sup> 	 2022-04-06 05:34:32
+
+:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
+
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/38)
+
+---
+
 
 #### [Rack](https://github.com/iamtomas/note/issues/37) <sup>0 :speech_balloon:</sup> 	 2022-04-05 15:33:04
 
@@ -167,21 +178,6 @@ brew install redis
 ---
 
 
-#### [Kafka](https://github.com/iamtomas/note/issues/32) <sup>0 :speech_balloon:</sup> 	 2022-03-24 16:23:17
-
-:label: : [MQ](https://github.com/iamtomas/ghiblog/labels/MQ)
-
-架构图：
-
-<img width="784" alt="image" src="https://user-images.githubusercontent.com/83901620/159956060-84356be8-1ab1-42bd-9567-c34ab9bbefc5.png">
-
-1
-
-[更多>>>](https://github.com/iamtomas/note/issues/32)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -281,8 +277,9 @@ brew install redis
 </details>
 
 <details>
-<summary>Rails	<sup>3:newspaper:</sup></summary>
+<summary>Rails	<sup>4:newspaper:</sup></summary>
 
+- [Rails Dotenv 不刷新](https://github.com/iamtomas/note/issues/38)  <sup>0 :speech_balloon:</sup>  	 
 - [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 - [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 - [Rails7 demo](https://github.com/iamtomas/note/issues/11)  <sup>0 :speech_balloon:</sup>  	 
