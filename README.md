@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-06 10:22:54"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-06 10:26:18"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [database.yaml 的 collation 属性](https://github.com/iamtomas/note/issues/39) <sup>0 :speech_balloon:</sup> 	 2022-04-06 10:25:54
+
+:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
+
+为确保统一排序集，可提前配置 `collaction` 属性如 `utf8mb4_general_ci`
+
+> 注意：记住是提前配置，如果已经存在的数据库，则需要删掉重新执行 `rake db:create`
+
+[更多>>>](https://github.com/iamtomas/note/issues/39)
+
+---
+
 
 #### [Dotenv 配置修改后不刷新](https://github.com/iamtomas/note/issues/38) <sup>0 :speech_balloon:</sup> 	 2022-04-06 05:34:32
 
@@ -163,21 +176,6 @@ brew install redis
 ---
 
 
-#### [Sidekiq](https://github.com/iamtomas/note/issues/33) <sup>0 :speech_balloon:</sup> 	 2022-03-30 07:49:54
-
-:label: : [Sidekiq](https://github.com/iamtomas/ghiblog/labels/Sidekiq)
-
-定义：用于处理后台任务且依赖于 Redis 的工具
-
-快速使用：
-
-
-
-[更多>>>](https://github.com/iamtomas/note/issues/33)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -277,8 +275,9 @@ brew install redis
 </details>
 
 <details>
-<summary>Rails	<sup>4:newspaper:</sup></summary>
+<summary>Rails	<sup>5:newspaper:</sup></summary>
 
+- [database.yaml 的 collation 属性](https://github.com/iamtomas/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [Dotenv 配置修改后不刷新](https://github.com/iamtomas/note/issues/38)  <sup>0 :speech_balloon:</sup>  	 
 - [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 - [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19)  <sup>0 :speech_balloon:</sup>  	 
