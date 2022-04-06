@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-06 13:39:46"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-06 14:58:03"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,21 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Kafka 3 废弃 ZooKeeper ？](https://github.com/iamtomas/note/issues/40) <sup>0 :speech_balloon:</sup> 	 2022-04-06 14:57:35
+
+:label: : [MQ](https://github.com/iamtomas/ghiblog/labels/MQ)
+
+在没有 ZooKeeper 的情况下运行 Kafka 有多便利？
+
+- 安装 Kafka 不用依赖 Zookeeper、Java 这些环境了
+- 减少了大多数的运维操作，比如说扩容、分区迁移，不必需要掌握 ZooKeeper 运行原理
+- 一个最小的分布式 Kafka 集群从六个异构的节点（
+
+[更多>>>](https://github.com/iamtomas/note/issues/40)
+
+---
+
 
 #### [database.yml 的 collation 属性](https://github.com/iamtomas/note/issues/39) <sup>0 :speech_balloon:</sup> 	 2022-04-06 10:25:54
 
@@ -73,105 +88,6 @@
 待更新
 
 [更多>>>](https://github.com/iamtomas/note/issues/36)
-
----
-
-
-#### [M1开发环境](https://github.com/iamtomas/note/issues/35) <sup>0 :speech_balloon:</sup> 	 2022-03-31 09:00:24
-
-:label: : [部署](https://github.com/iamtomas/ghiblog/labels/%E9%83%A8%E7%BD%B2)
-
-# brew
-
-从官网下载（如果因网络问题拉不下来，可以下载国内的脚本）后，把镜像修改成国内
-
-# asdf
-
-负责多环境管理（包括 node 、ruby、go等）
-
-```zsh
-brew install asdf
-```
-
-# git
-
-不要使用系统自带的 git
-
-```zsh
-brew install git
-```
-
-另外 M1 下通过 `brew install bash-completion` 方式无法实现 git 补全，而是采用下边方式
-
-```zsh
-curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
-
-mkdir ~/.zsh
-
-cp git-completion.bash ~/.zsh/.git-completion.bash
-
-# ~/.zshrc
-zstyle ':completion:*:*:git:*' script ~/.zsh/.git-completion.bash
-fpath=(~/.zsh $fpath)
-autoload -Uz compinit && compinit
-```
-
-terminal 显示 git 分支则可以采用以下方式
-
-```zsh
-# ~/.zshrc
-function parse_git_branch() {
-    git branch 2> /dev/null | sed -n -e 's/^\* \(.*\)/[\1]/p'
-}
-
-setopt PROMPT_SUBST
-export PROMPT='%F{grey}%n%f %F{cyan}%~%f %F{green}$(parse_git_branch)%f %F{normal}$%f '
-```
-
-# mysql
-
-```zsh
-brew install mysql
-```
-
-# navicat premium 16.0.9
-
-无需注册码
-
-# docker
-
-```zsh
-brew install docker
-```
-
-# k8s
-
-网上查询下，下载规定版本的 docker desktop，可以通过镜像启动 k8s
-
-# helm
-
-```zsh
-brew install helm
-```
-
-# redis
-
-```zsh
-brew install redis
-```
-
-# java
-
-官网下载
-
-# kafka
-
-在 m1 芯片下通过 brew 安装始终启动不了，也确保了 java 和 zookeeper 环境存在，最后通过 docker 将 kafka 和 zookeeper 容器跑起来
-
-```yml
-
-
-[更多>>>](https://github.com/iamtomas/note/issues/35)
 
 ---
 
@@ -237,8 +153,9 @@ brew install redis
 </details>
 
 <details>
-<summary>MQ	<sup>2:newspaper:</sup></summary>
+<summary>MQ	<sup>3:newspaper:</sup></summary>
 
+- [Kafka 3 废弃 ZooKeeper ？](https://github.com/iamtomas/note/issues/40)  <sup>0 :speech_balloon:</sup>  	 
 - [初识 Kafka](https://github.com/iamtomas/note/issues/32)  <sup>0 :speech_balloon:</sup>  	 
 - [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 
