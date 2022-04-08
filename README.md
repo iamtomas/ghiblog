@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-08 08:31:42"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-08 08:32:31"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -27,14 +27,14 @@
 
 定义：
 
-优势：
+优缺点：
 
 遇到的问题：
 - 对外提供的字段会自动转换成驼峰，可以通过设置 `camelize: false` 取消自动转换
 
 参考：
 - https://graphql-ruby.org/getting_started.html
-- https://www.youtube
+- https://www.youtub
 
 [更多>>>](https://github.com/iamtomas/note/issues/42)
 
