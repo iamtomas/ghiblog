@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/20"/>
+    <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-06 14:58:03"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-08 08:31:42"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,39 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [初识 Graphql ](https://github.com/iamtomas/note/issues/42) <sup>0 :speech_balloon:</sup> 	 2022-04-08 08:31:16
+
+:label: : [Graphql](https://github.com/iamtomas/ghiblog/labels/Graphql)
+
+定义：
+
+优势：
+
+遇到的问题：
+- 对外提供的字段会自动转换成驼峰，可以通过设置 `camelize: false` 取消自动转换
+
+参考：
+- https://graphql-ruby.org/getting_started.html
+- https://www.youtube
+
+[更多>>>](https://github.com/iamtomas/note/issues/42)
+
+---
+
+
+#### [setAttribute 覆盖 css 属性](https://github.com/iamtomas/note/issues/41) <sup>0 :speech_balloon:</sup> 	 2022-04-07 09:05:04
+
+:label: : [前端](https://github.com/iamtomas/ghiblog/labels/%E5%89%8D%E7%AB%AF)
+
+举个例子
+
+
+
+[更多>>>](https://github.com/iamtomas/note/issues/41)
+
+---
+
 
 #### [Kafka 3 废弃 ZooKeeper ？](https://github.com/iamtomas/note/issues/40) <sup>0 :speech_balloon:</sup> 	 2022-04-06 14:57:35
 
@@ -56,38 +89,6 @@
 
 
 [更多>>>](https://github.com/iamtomas/note/issues/38)
-
----
-
-
-#### [初识 Rack](https://github.com/iamtomas/note/issues/37) <sup>0 :speech_balloon:</sup> 	 2022-04-05 15:33:04
-
-:label: : [Rack](https://github.com/iamtomas/ghiblog/labels/Rack)
-
-将了解到
-- 什么是 Rack
-- Rack 实现原理
-- 如何使用 Rack
-- Rack 的作用及场景
-
-什么是 Rake ：一般 Ruby Web Application 包含 Framework（如 Rails、Sinatra 等）、Rack 层及 WebServer 层（如 p
-
-[更多>>>](https://github.com/iamtomas/note/issues/37)
-
----
-
-
-#### [初识 K8s + Helm](https://github.com/iamtomas/note/issues/36) <sup>0 :speech_balloon:</sup> 	 2022-03-31 09:02:12
-
-:label: : [K8s](https://github.com/iamtomas/ghiblog/labels/K8s)
-
-定义：The package manager for Kubernetes
-
-解决：K8s 抽象了各种各样的资源，如Pod、deployemnt、Service等，Helm 作为包管理器可以对这些多资源进⾏管理
-
-待更新
-
-[更多>>>](https://github.com/iamtomas/note/issues/36)
 
 ---
 
@@ -139,6 +140,14 @@
 <summary>good first issue	<sup>1:newspaper:</sup></summary>
 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>Graphql	<sup>1:newspaper:</sup></summary>
+
+- [初识 Graphql ](https://github.com/iamtomas/note/issues/42)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -215,6 +224,14 @@
 <summary>Sidekiq	<sup>1:newspaper:</sup></summary>
 
 - [浅析 Sidekiq](https://github.com/iamtomas/note/issues/33)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>前端	<sup>1:newspaper:</sup></summary>
+
+- [setAttribute 覆盖 css 属性](https://github.com/iamtomas/note/issues/41)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
