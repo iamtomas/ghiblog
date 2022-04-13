@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-08 08:32:31"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-13 02:05:21"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,20 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [搭建Rspec测试环境](https://github.com/iamtomas/note/issues/43) <sup>0 :speech_balloon:</sup> 	 2022-04-13 02:04:54
+
+:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
+
+> 为了方便 TDD 驱动而搭建的测试环境，它不仅可以执行完 rspec 后清理数据库，还能在执行 rspec 时自动加载 seed
+
+- 安装 [rspec-rails](https://github.com/rspec/rspec-rails/)
+- 安装 [factory_bot_rai
+
+[更多>>>](https://github.com/iamtomas/note/issues/43)
+
+---
+
 
 #### [初识 Graphql ](https://github.com/iamtomas/note/issues/42) <sup>0 :speech_balloon:</sup> 	 2022-04-08 08:31:16
 
@@ -78,17 +92,6 @@
 > 注意：记住是提前配置，如果已经存在的数据库，则需要删掉重新执行 `rake db:create`
 
 [更多>>>](https://github.com/iamtomas/note/issues/39)
-
----
-
-
-#### [Dotenv 配置修改后不刷新](https://github.com/iamtomas/note/issues/38) <sup>0 :speech_balloon:</sup> 	 2022-04-06 05:34:32
-
-:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
-
-
-
-[更多>>>](https://github.com/iamtomas/note/issues/38)
 
 ---
 
@@ -201,8 +204,9 @@
 </details>
 
 <details>
-<summary>Rails	<sup>5:newspaper:</sup></summary>
+<summary>Rails	<sup>6:newspaper:</sup></summary>
 
+- [搭建Rspec测试环境](https://github.com/iamtomas/note/issues/43)  <sup>0 :speech_balloon:</sup>  	 
 - [database.yml 的 collation 属性](https://github.com/iamtomas/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [Dotenv 配置修改后不刷新](https://github.com/iamtomas/note/issues/38)  <sup>0 :speech_balloon:</sup>  	 
 - [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
