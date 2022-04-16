@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-16 02:21:19"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-16 20:50:18"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -266,7 +266,7 @@
 <details>
 <summary>算法	<sup>2:newspaper:</sup></summary>
 
-- [冒泡排序 - 排序算法](https://github.com/iamtomas/note/issues/13)  <sup>0 :speech_balloon:</sup>  	 
+- [冒泡排序](https://github.com/iamtomas/note/issues/13)  <sup>0 :speech_balloon:</sup>  	 
 - [两数之和](https://github.com/iamtomas/note/issues/9)  <sup>0 :speech_balloon:</sup>  	 
 
 
