@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-16 02:19:05"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-16 02:20:29"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -175,11 +175,10 @@
 </details>
 
 <details>
-<summary>MySQL	<sup>3:newspaper:</sup></summary>
+<summary>MySQL	<sup>2:newspaper:</sup></summary>
 
 - [数据库设计大全](https://github.com/iamtomas/note/issues/28)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
-- [一条SQL更新语句是如何执行的？](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
