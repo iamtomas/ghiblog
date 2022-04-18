@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 14:36:46"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 14:40:49"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -34,7 +34,7 @@
 ---
 
 
-#### [搭建Rspec测试环境](https://github.com/iamtomas/note/issues/43) <sup>0 :speech_balloon:</sup> 	 2022-04-13 02:04:54
+#### [搭建 Rspec 测试环境](https://github.com/iamtomas/note/issues/43) <sup>0 :speech_balloon:</sup> 	 2022-04-13 02:04:54
 
 :label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
 
@@ -204,7 +204,7 @@
 <summary>Rails	<sup>7:newspaper:</sup></summary>
 
 - [Rails7 正式环境设置 `secret_key_base`](https://github.com/iamtomas/note/issues/44)  <sup>0 :speech_balloon:</sup>  	 
-- [搭建Rspec测试环境](https://github.com/iamtomas/note/issues/43)  <sup>0 :speech_balloon:</sup>  	 
+- [搭建 Rspec 测试环境](https://github.com/iamtomas/note/issues/43)  <sup>0 :speech_balloon:</sup>  	 
 - [database.yml 的 collation 属性](https://github.com/iamtomas/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [Dotenv 配置修改后不刷新](https://github.com/iamtomas/note/issues/38)  <sup>0 :speech_balloon:</sup>  	 
 - [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
@@ -274,9 +274,8 @@
 </details>
 
 <details>
-<summary>踩坑	<sup>2:newspaper:</sup></summary>
+<summary>踩坑	<sup>1:newspaper:</sup></summary>
 
-- [ld: library not found for -lzstd while bundle install for mysql2 gem Ruby on macOS Big Sur](https://github.com/iamtomas/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 
 - [解决OSX使用oh-my-zsh后.bash_profile自定义失效](https://github.com/iamtomas/note/issues/23)  <sup>0 :speech_balloon:</sup>  	 
 
 
