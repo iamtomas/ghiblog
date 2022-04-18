@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 14:42:10"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 14:42:58"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -129,10 +129,9 @@
 </details>
 
 <details>
-<summary>Docker	<sup>2:newspaper:</sup></summary>
+<summary>Docker	<sup>1:newspaper:</sup></summary>
 
 - [Docker-compose up failing because "port is already allocated"](https://github.com/iamtomas/note/issues/24)  <sup>0 :speech_balloon:</sup>  	 
-- [Docker Demo（进阶）](https://github.com/iamtomas/note/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -279,7 +278,7 @@
 <details>
 <summary>部署	<sup>1:newspaper:</sup></summary>
 
-- [M1开发环境](https://github.com/iamtomas/note/issues/35)  <sup>0 :speech_balloon:</sup>  	 
+- [M1 开发环境](https://github.com/iamtomas/note/issues/35)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
