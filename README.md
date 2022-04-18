@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 02:25:40"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 14:26:51"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -274,9 +274,8 @@
 </details>
 
 <details>
-<summary>踩坑	<sup>3:newspaper:</sup></summary>
+<summary>踩坑	<sup>2:newspaper:</sup></summary>
 
-- [grpc_c.bundle fails to load on Apple M1 (wrong architecture) ](https://github.com/iamtomas/note/issues/30)  <sup>0 :speech_balloon:</sup>  	 
 - [ld: library not found for -lzstd while bundle install for mysql2 gem Ruby on macOS Big Sur](https://github.com/iamtomas/note/issues/29)  <sup>0 :speech_balloon:</sup>  	 
 - [解决OSX使用oh-my-zsh后.bash_profile自定义失效](https://github.com/iamtomas/note/issues/23)  <sup>0 :speech_balloon:</sup>  	 
 
