@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 14:40:49"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 14:41:32"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -129,9 +129,8 @@
 </details>
 
 <details>
-<summary>Docker	<sup>4:newspaper:</sup></summary>
+<summary>Docker	<sup>3:newspaper:</sup></summary>
 
-- [Docker入门二](https://github.com/iamtomas/note/issues/26)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker入门一](https://github.com/iamtomas/note/issues/25)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker-compose up failing because "port is already allocated"](https://github.com/iamtomas/note/issues/24)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker Demo（进阶）](https://github.com/iamtomas/note/issues/22)  <sup>0 :speech_balloon:</sup>  	 
@@ -156,10 +155,9 @@
 </details>
 
 <details>
-<summary>K8s	<sup>2:newspaper:</sup></summary>
+<summary>K8s	<sup>1:newspaper:</sup></summary>
 
 - [初识 K8s + Helm](https://github.com/iamtomas/note/issues/36)  <sup>0 :speech_balloon:</sup>  	 
-- [Kubernetes入门一](https://github.com/iamtomas/note/issues/27)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -175,9 +173,8 @@
 </details>
 
 <details>
-<summary>MySQL	<sup>2:newspaper:</sup></summary>
+<summary>MySQL	<sup>1:newspaper:</sup></summary>
 
-- [数据库设计大全](https://github.com/iamtomas/note/issues/28)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -253,9 +250,8 @@
 </details>
 
 <details>
-<summary>数据库	<sup>5:newspaper:</sup></summary>
+<summary>数据库	<sup>4:newspaper:</sup></summary>
 
-- [数据库设计大全](https://github.com/iamtomas/note/issues/28)  <sup>0 :speech_balloon:</sup>  	 
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL更新原理](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL的InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
