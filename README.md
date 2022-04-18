@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 15:50:14"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 15:50:54"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -178,10 +178,9 @@
 </details>
 
 <details>
-<summary>PostgreSQL	<sup>2:newspaper:</sup></summary>
+<summary>PostgreSQL	<sup>1:newspaper:</sup></summary>
 
 - [如何本地不安装 postgreSQL 情况下执行 gem install pg](https://github.com/iamtomas/note/issues/21)  <sup>0 :speech_balloon:</sup>  	 
-- [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -248,8 +247,8 @@
 <details>
 <summary>数据库	<sup>4:newspaper:</sup></summary>
 
-- [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
-- [MySQL更新原理](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
+- [PostgreSQL 查询原理](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
+- [MySQL 更新原理](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL 的 InnoDB 记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL 查询原理](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
 
