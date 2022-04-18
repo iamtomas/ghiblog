@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 16:17:23"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 16:20:29"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,21 @@
 ## 置顶 :thumbsup: 
 - [基于 Github Action 自动生成并更新 GitHub Issue 博客的 ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [git cherry-pick 命令](https://github.com/iamtomas/note/issues/45) <sup>0 :speech_balloon:</sup> 	 2022-04-18 16:20:03
+
+:label: : [Git](https://github.com/iamtomas/ghiblog/labels/Git)
+
+定义：其实就是允许合并指定分支的部分提交
+
+好处：cherry-pick 命令提供参数也有不少好用的，比如 -e (编辑提交信息)及 -n (合并后无提交记录)等
+
+参考：https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html
+
+[更多>>>](https://github.com/iamtomas/note/issues/45)
+
+---
+
 
 #### [Rails7 正式环境设置 `secret_key_base`](https://github.com/iamtomas/note/issues/44) <sup>0 :speech_balloon:</sup> 	 2022-04-18 02:25:16
 
@@ -81,21 +96,6 @@
 ---
 
 
-#### [Kafka 3 废弃 ZooKeeper ？](https://github.com/iamtomas/note/issues/40) <sup>0 :speech_balloon:</sup> 	 2022-04-06 14:57:35
-
-:label: : [MQ](https://github.com/iamtomas/ghiblog/labels/MQ)
-
-在没有 ZooKeeper 的情况下运行 Kafka 有多便利？
-
-- 安装 Kafka 不用依赖 Zookeeper、Java 这些环境了
-- 减少了大多数的运维操作，比如说扩容、分区迁移，不必需要掌握 ZooKeeper 运行原理
-- 一个最小的分布式 Kafka 集群从六个异构的节点（
-
-[更多>>>](https://github.com/iamtomas/note/issues/40)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -137,8 +137,9 @@
 </details>
 
 <details>
-<summary>Git	<sup>0:newspaper:</sup></summary>
+<summary>Git	<sup>1:newspaper:</sup></summary>
 
+- [git cherry-pick 命令](https://github.com/iamtomas/note/issues/45)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
