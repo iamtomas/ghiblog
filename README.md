@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-16 20:58:17"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 02:25:40"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Rails7 正式环境设置 `secret_key_base`](https://github.com/iamtomas/note/issues/44) <sup>0 :speech_balloon:</sup> 	 2022-04-18 02:25:16
+
+:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
+
+步骤：`EDITOR="mate --wait" bin/rails credentials:edit`（如果存在 master.key 或者 credentials.yml.enc，需要同时删除再执行）
+
+参考：https://stackoverflow.com/questions/57290
+
+[更多>>>](https://github.com/iamtomas/note/issues/44)
+
+---
+
 
 #### [搭建Rspec测试环境](https://github.com/iamtomas/note/issues/43) <sup>0 :speech_balloon:</sup> 	 2022-04-13 02:04:54
 
@@ -79,19 +92,6 @@
 - 一个最小的分布式 Kafka 集群从六个异构的节点（
 
 [更多>>>](https://github.com/iamtomas/note/issues/40)
-
----
-
-
-#### [database.yml 的 collation 属性](https://github.com/iamtomas/note/issues/39) <sup>0 :speech_balloon:</sup> 	 2022-04-06 10:25:54
-
-:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
-
-为确保统一排序集，可提前配置 `collaction` 属性如 `utf8mb4_general_ci`
-
-> 注意：记住是提前配置，如果已经存在的数据库，则需要删掉重新执行 `rake db:create`
-
-[更多>>>](https://github.com/iamtomas/note/issues/39)
 
 ---
 
@@ -201,8 +201,9 @@
 </details>
 
 <details>
-<summary>Rails	<sup>6:newspaper:</sup></summary>
+<summary>Rails	<sup>7:newspaper:</sup></summary>
 
+- [Rails7 正式环境设置 `secret_key_base`](https://github.com/iamtomas/note/issues/44)  <sup>0 :speech_balloon:</sup>  	 
 - [搭建Rspec测试环境](https://github.com/iamtomas/note/issues/43)  <sup>0 :speech_balloon:</sup>  	 
 - [database.yml 的 collation 属性](https://github.com/iamtomas/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [Dotenv 配置修改后不刷新](https://github.com/iamtomas/note/issues/38)  <sup>0 :speech_balloon:</sup>  	 
