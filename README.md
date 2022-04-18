@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 15:50:54"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 15:51:34"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -170,9 +170,8 @@
 </details>
 
 <details>
-<summary>MySQL	<sup>1:newspaper:</sup></summary>
+<summary>MySQL	<sup>0:newspaper:</sup></summary>
 
-- [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -281,9 +280,8 @@
 </details>
 
 <details>
-<summary>面试题	<sup>1:newspaper:</sup></summary>
+<summary>面试题	<sup>0:newspaper:</sup></summary>
 
-- [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
