@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/22"/>
+    <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 15:51:34"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 16:17:23"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -137,6 +137,13 @@
 </details>
 
 <details>
+<summary>Git	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
 <summary>good first issue	<sup>1:newspaper:</sup></summary>
 
 - [基于 Github Action 自动生成并更新 GitHub Issue 博客的 ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
@@ -165,21 +172,6 @@
 
 - [Kafka 3 废弃 ZooKeeper ？](https://github.com/iamtomas/note/issues/40)  <sup>0 :speech_balloon:</sup>  	 
 - [初识 Kafka](https://github.com/iamtomas/note/issues/32)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>MySQL	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>PostgreSQL	<sup>1:newspaper:</sup></summary>
-
-- [如何本地不安装 postgreSQL 情况下执行 gem install pg](https://github.com/iamtomas/note/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -237,13 +229,6 @@
 </details>
 
 <details>
-<summary>技术栈	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
 <summary>数据库	<sup>4:newspaper:</sup></summary>
 
 - [PostgreSQL 查询原理](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
@@ -275,13 +260,6 @@
 <summary>部署	<sup>1:newspaper:</sup></summary>
 
 - [M1 开发环境](https://github.com/iamtomas/note/issues/35)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>面试题	<sup>0:newspaper:</sup></summary>
-
 
 
 </details>
