@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 15:48:25"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-18 15:49:37"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -161,11 +161,10 @@
 </details>
 
 <details>
-<summary>MQ	<sup>3:newspaper:</sup></summary>
+<summary>MQ	<sup>2:newspaper:</sup></summary>
 
 - [Kafka 3 废弃 ZooKeeper ？](https://github.com/iamtomas/note/issues/40)  <sup>0 :speech_balloon:</sup>  	 
 - [初识 Kafka](https://github.com/iamtomas/note/issues/32)  <sup>0 :speech_balloon:</sup>  	 
-- [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -210,9 +209,8 @@
 </details>
 
 <details>
-<summary>Redis	<sup>1:newspaper:</sup></summary>
+<summary>Redis	<sup>0:newspaper:</sup></summary>
 
-- [Redis零散知识笔记](https://github.com/iamtomas/note/issues/15)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -253,7 +251,7 @@
 - [一条SQL查询语句是如何执行的？](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL更新原理](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL的InnoDB记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
-- [MySQL查询原理](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
+- [MySQL 查询原理](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -284,10 +282,8 @@
 </details>
 
 <details>
-<summary>面试题	<sup>3:newspaper:</sup></summary>
+<summary>面试题	<sup>1:newspaper:</sup></summary>
 
-- [消息队列零散知识笔记](https://github.com/iamtomas/note/issues/17)  <sup>0 :speech_balloon:</sup>  	 
-- [Redis零散知识笔记](https://github.com/iamtomas/note/issues/15)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL零散知识笔记](https://github.com/iamtomas/note/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 
 
