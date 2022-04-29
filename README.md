@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-18 16:20:29"/>
+    <img src="https://badgen.net/badge/last-commit/2022-04-29 01:56:22"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,17 @@
 ## 置顶 :thumbsup: 
 - [基于 Github Action 自动生成并更新 GitHub Issue 博客的 ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [How to use bundler cache to speed up ?](https://github.com/iamtomas/note/issues/46) <sup>0 :speech_balloon:</sup> 	 2022-04-29 01:55:57
+
+:label: : [Docker](https://github.com/iamtomas/ghiblog/labels/Docker)
+
+https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
+
+[更多>>>](https://github.com/iamtomas/note/issues/46)
+
+---
+
 
 #### [git cherry-pick 命令](https://github.com/iamtomas/note/issues/45) <sup>0 :speech_balloon:</sup> 	 2022-04-18 16:20:03
 
@@ -83,19 +94,6 @@
 ---
 
 
-#### [setAttribute 覆盖 css 属性](https://github.com/iamtomas/note/issues/41) <sup>0 :speech_balloon:</sup> 	 2022-04-07 09:05:04
-
-:label: : [前端](https://github.com/iamtomas/ghiblog/labels/%E5%89%8D%E7%AB%AF)
-
-举个例子
-
-
-
-[更多>>>](https://github.com/iamtomas/note/issues/41)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -129,8 +127,9 @@
 </details>
 
 <details>
-<summary>Docker	<sup>1:newspaper:</sup></summary>
+<summary>Docker	<sup>2:newspaper:</sup></summary>
 
+- [How to use bundler cache to speed up ?](https://github.com/iamtomas/note/issues/46)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker-compose up failing because "port is already allocated"](https://github.com/iamtomas/note/issues/24)  <sup>0 :speech_balloon:</sup>  	 
 
 
