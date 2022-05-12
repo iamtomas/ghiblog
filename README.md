@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/19"/>
+    <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-29 01:56:22"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-12 03:51:33"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -144,6 +144,13 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 </details>
 
 <details>
+<summary>Go	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
 <summary>good first issue	<sup>1:newspaper:</sup></summary>
 
 - [基于 Github Action 自动生成并更新 GitHub Issue 博客的 ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
@@ -185,7 +192,7 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 </details>
 
 <details>
-<summary>Rails	<sup>7:newspaper:</sup></summary>
+<summary>Rails	<sup>6:newspaper:</sup></summary>
 
 - [Rails7 正式环境设置 `secret_key_base`](https://github.com/iamtomas/note/issues/44)  <sup>0 :speech_balloon:</sup>  	 
 - [搭建 Rspec 测试环境](https://github.com/iamtomas/note/issues/43)  <sup>0 :speech_balloon:</sup>  	 
@@ -193,7 +200,6 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 - [Dotenv 配置修改后不刷新](https://github.com/iamtomas/note/issues/38)  <sup>0 :speech_balloon:</sup>  	 
 - [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 - [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19)  <sup>0 :speech_balloon:</sup>  	 
-- [初识Rails7](https://github.com/iamtomas/note/issues/11)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -229,12 +235,10 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 </details>
 
 <details>
-<summary>数据库	<sup>4:newspaper:</sup></summary>
+<summary>数据库	<sup>2:newspaper:</sup></summary>
 
 - [PostgreSQL 查询原理](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL 更新原理](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
-- [MySQL 的 InnoDB 记录与页结构](https://github.com/iamtomas/note/issues/10)  <sup>0 :speech_balloon:</sup>  	 
-- [MySQL 查询原理](https://github.com/iamtomas/note/issues/8)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
