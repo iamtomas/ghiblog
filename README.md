@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-12 03:51:33"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-12 03:52:13"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -235,10 +235,9 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 </details>
 
 <details>
-<summary>数据库	<sup>2:newspaper:</sup></summary>
+<summary>数据库	<sup>1:newspaper:</sup></summary>
 
 - [PostgreSQL 查询原理](https://github.com/iamtomas/note/issues/18)  <sup>0 :speech_balloon:</sup>  	 
-- [MySQL 更新原理](https://github.com/iamtomas/note/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
