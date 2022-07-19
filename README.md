@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-07-19 02:38:38"/>
+    <img src="https://badgen.net/badge/last-commit/2022-07-19 02:41:13"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -191,14 +191,13 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 </details>
 
 <details>
-<summary>Rails	<sup>6:newspaper:</sup></summary>
+<summary>Rails	<sup>5:newspaper:</sup></summary>
 
 - [Rails7 正式环境设置 `secret_key_base`](https://github.com/iamtomas/note/issues/44)  <sup>0 :speech_balloon:</sup>  	 
 - [搭建 Rspec 测试环境](https://github.com/iamtomas/note/issues/43)  <sup>0 :speech_balloon:</sup>  	 
 - [database.yml 的 collation 属性](https://github.com/iamtomas/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [Dotenv 配置修改后不刷新](https://github.com/iamtomas/note/issues/38)  <sup>0 :speech_balloon:</sup>  	 
 - [状态机（AASM）实现持久化](https://github.com/iamtomas/note/issues/31)  <sup>0 :speech_balloon:</sup>  	 
-- [Sidekiq 浅析](https://github.com/iamtomas/note/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
