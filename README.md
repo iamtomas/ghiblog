@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-07-19 02:41:13"/>
+    <img src="https://badgen.net/badge/last-commit/2022-07-19 02:43:50"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -250,9 +250,8 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 </details>
 
 <details>
-<summary>踩坑	<sup>1:newspaper:</sup></summary>
+<summary>踩坑	<sup>0:newspaper:</sup></summary>
 
-- [解决 OSX 使用 oh-my-zsh 后 .bash_profile 自定义失效](https://github.com/iamtomas/note/issues/23)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
