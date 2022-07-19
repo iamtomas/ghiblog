@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-12 03:52:13"/>
+    <img src="https://badgen.net/badge/last-commit/2022-07-19 02:38:38"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -74,20 +74,19 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 ---
 
 
-#### [初识 Graphql ](https://github.com/iamtomas/note/issues/42) <sup>0 :speech_balloon:</sup> 	 2022-04-08 08:31:16
+#### [浅析 GraphQL](https://github.com/iamtomas/note/issues/42) <sup>0 :speech_balloon:</sup> 	 2022-04-08 08:31:16
 
 :label: : [Graphql](https://github.com/iamtomas/ghiblog/labels/Graphql)
 
-定义：
+## 目的
+**了解 GraphQL 使用场景及基本原理**
 
-优缺点：
+## 简述
+**“What's GraphQL？”**
 
-遇到的问题：
-- 对外提供的字段会自动转换成驼峰，可以通过设置 `camelize: false` 取消自动转换
+是一个用于 API 的查询语言，在一些特定场景下，提供了更高效、更强大、更灵活的 REST 替代方案
 
-参考：
-- https://graphql-ruby.org/getting_started.html
-- https://www.youtub
+抱着疑问，让我们看看 GraphQL与 REST API 
 
 [更多>>>](https://github.com/iamtomas/note/issues/42)
 
@@ -161,7 +160,7 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 <details>
 <summary>Graphql	<sup>1:newspaper:</sup></summary>
 
-- [初识 Graphql ](https://github.com/iamtomas/note/issues/42)  <sup>0 :speech_balloon:</sup>  	 
+- [浅析 GraphQL](https://github.com/iamtomas/note/issues/42)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
