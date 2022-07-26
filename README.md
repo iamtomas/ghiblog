@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-07-19 02:46:05"/>
+    <img src="https://badgen.net/badge/last-commit/2022-07-26 01:54:12"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,17 @@
 ## 置顶 :thumbsup: 
 - [基于 Github Action 自动生成并更新 GitHub Issue 博客的 ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [使用 SQL 参数对 ActiveRecord::Relation 进行排序返回  unsafe_raw SQL 警告](https://github.com/iamtomas/note/issues/48) <sup>0 :speech_balloon:</sup> 	 2022-07-26 01:53:47
+
+:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
+
+使用 `Arel.sql()` 避免 `unsafe_raw SQL` 警告
+
+[更多>>>](https://github.com/iamtomas/note/issues/48)
+
+---
+
 
 #### [How to use bundler cache to speed up ?](https://github.com/iamtomas/note/issues/46) <sup>0 :speech_balloon:</sup> 	 2022-04-29 01:55:57
 
@@ -70,25 +81,6 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 - 安装 [factory_bot_rai
 
 [更多>>>](https://github.com/iamtomas/note/issues/43)
-
----
-
-
-#### [浅析 GraphQL](https://github.com/iamtomas/note/issues/42) <sup>0 :speech_balloon:</sup> 	 2022-04-08 08:31:16
-
-:label: : [Graphql](https://github.com/iamtomas/ghiblog/labels/Graphql)
-
-## 目的
-**了解 GraphQL 使用场景及基本原理**
-
-## 简述
-**“What's GraphQL？”**
-
-是一个用于 API 的查询语言，在一些特定场景下，提供了更高效、更强大、更灵活的 REST 替代方案
-
-抱着疑问，让我们看看 GraphQL与 REST API 
-
-[更多>>>](https://github.com/iamtomas/note/issues/42)
 
 ---
 
@@ -190,8 +182,9 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 </details>
 
 <details>
-<summary>Rails	<sup>5:newspaper:</sup></summary>
+<summary>Rails	<sup>6:newspaper:</sup></summary>
 
+- [使用 SQL 参数对 ActiveRecord::Relation 进行排序返回  unsafe_raw SQL 警告](https://github.com/iamtomas/note/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [Rails7 正式环境设置 `secret_key_base`](https://github.com/iamtomas/note/issues/44)  <sup>0 :speech_balloon:</sup>  	 
 - [搭建 Rspec 测试环境](https://github.com/iamtomas/note/issues/43)  <sup>0 :speech_balloon:</sup>  	 
 - [database.yml 的 collation 属性](https://github.com/iamtomas/note/issues/39)  <sup>0 :speech_balloon:</sup>  	 
