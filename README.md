@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/iamtomas/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-07-26 01:54:12"/>
+    <img src="https://badgen.net/badge/last-commit/2023-01-06 09:20:34"/>
     <img src="https://badgen.net/github/forks/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/stars/iamtomas/ghiblog"/>
     <img src="https://badgen.net/github/watchers/iamtomas/ghiblog"/>
@@ -20,6 +20,20 @@
 ## 置顶 :thumbsup: 
 - [基于 Github Action 自动生成并更新 GitHub Issue 博客的 ReadMe](https://github.com/iamtomas/note/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [K8s是如何工作的？](https://github.com/iamtomas/note/issues/49) <sup>0 :speech_balloon:</sup> 	 2023-01-06 09:20:02
+
+:label: : [K8s](https://github.com/iamtomas/ghiblog/labels/K8s)
+
+目的：K8s如何对Pod进行编排
+
+架构图：
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/83901620/210953162-241845a2-9b93-4b93-a374-df933
+
+[更多>>>](https://github.com/iamtomas/note/issues/49)
+
+---
+
 
 #### [使用 SQL 参数对 ActiveRecord::Relation 进行排序返回  unsafe_raw SQL 警告](https://github.com/iamtomas/note/issues/48) <sup>0 :speech_balloon:</sup> 	 2022-07-26 01:53:47
 
@@ -67,20 +81,6 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 参考：https://stackoverflow.com/questions/57290
 
 [更多>>>](https://github.com/iamtomas/note/issues/44)
-
----
-
-
-#### [搭建 Rspec 测试环境](https://github.com/iamtomas/note/issues/43) <sup>0 :speech_balloon:</sup> 	 2022-04-13 02:04:54
-
-:label: : [Rails](https://github.com/iamtomas/ghiblog/labels/Rails)
-
-> 为了方便 TDD 驱动而搭建的测试环境，它不仅可以执行完 rspec 后清理数据库，还能在执行 rspec 时自动加载 seed
-
-- 安装 [rspec-rails](https://github.com/rspec/rspec-rails/)
-- 安装 [factory_bot_rai
-
-[更多>>>](https://github.com/iamtomas/note/issues/43)
 
 ---
 
@@ -157,8 +157,9 @@ https://gist.github.com/huacnlee/cd47d5550c47bc1cc46b91e679f014da
 </details>
 
 <details>
-<summary>K8s	<sup>1:newspaper:</sup></summary>
+<summary>K8s	<sup>2:newspaper:</sup></summary>
 
+- [K8s是如何工作的？](https://github.com/iamtomas/note/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 - [K8s + Helm](https://github.com/iamtomas/note/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 
 
